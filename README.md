@@ -19,6 +19,7 @@ Running Public key computation
 python3 PKCompute.py
 ```
 After running protocol1.py, the output directory contains files such as:
+```
 protocol1_data/
 ├── auditor_1.json
 ├── contributor_1.json
@@ -32,6 +33,7 @@ protocol1_data/
 ├── matrix_commitment_verification.json
 ├── timed_auditor_public_key.json
 └── metadata.json
+```
 -------------------------------------------------
 Running the Merkle Tree Code
 ```bash
