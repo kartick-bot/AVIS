@@ -1,0 +1,1924 @@
+channels=45000, leaves_per_tree=16384, runs=100
+==========================================================================================
+
+RUN 1
+------------------------------------------------------------------------------------------
+Run 01 | digest creation: 9.805971 ms
+Run 01 | tree construction: 204.578599 ms
+Run 01 | number of trees: 10
+Run 01 | checkpoint construction: 0.115076 ms
+Run 01 | open-open proof extraction: 0.045462 ms
+Run 01 | open-open checkpoint proof extraction: 0.082944 ms
+Run 01 | open-open proof verification: 0.139832 ms
+Run 01 | open-open checkpoint verification: 0.321081 ms
+Run 01 | open-close proof extraction: 0.006086 ms
+Run 01 | open-close checkpoint proof extraction: 0.016724 ms
+Run 01 | open-close proof verification: 0.013211 ms
+Run 01 | open-close checkpoint verification: 0.063632 ms
+Run 01 | dne proof extraction: 0.009155 ms
+Run 01 | dne checkpoint proof extraction: 0.019492 ms
+Run 01 | dne proof verification: 0.025932 ms
+Run 01 | dne checkpoint verification: 0.060995 ms
+
+RUN 2
+------------------------------------------------------------------------------------------
+Run 02 | digest creation: 11.270597 ms
+Run 02 | tree construction: 214.027156 ms
+Run 02 | number of trees: 10
+Run 02 | checkpoint construction: 0.141512 ms
+Run 02 | open-open proof extraction: 0.051348 ms
+Run 02 | open-open checkpoint proof extraction: 0.107650 ms
+Run 02 | open-open proof verification: 0.140629 ms
+Run 02 | open-open checkpoint verification: 0.322046 ms
+Run 02 | open-close proof extraction: 0.006179 ms
+Run 02 | open-close checkpoint proof extraction: 0.018134 ms
+Run 02 | open-close proof verification: 0.013341 ms
+Run 02 | open-close checkpoint verification: 0.064946 ms
+Run 02 | dne proof extraction: 0.009281 ms
+Run 02 | dne checkpoint proof extraction: 0.006635 ms
+Run 02 | dne proof verification: 0.029783 ms
+Run 02 | dne checkpoint verification: 0.015896 ms
+
+RUN 3
+------------------------------------------------------------------------------------------
+Run 03 | digest creation: 10.401876 ms
+Run 03 | tree construction: 210.324400 ms
+Run 03 | number of trees: 10
+Run 03 | checkpoint construction: 0.163920 ms
+Run 03 | open-open proof extraction: 0.054663 ms
+Run 03 | open-open checkpoint proof extraction: 0.110034 ms
+Run 03 | open-open proof verification: 0.157375 ms
+Run 03 | open-open checkpoint verification: 0.330184 ms
+Run 03 | open-close proof extraction: 0.007268 ms
+Run 03 | open-close checkpoint proof extraction: 0.018319 ms
+Run 03 | open-close proof verification: 0.014957 ms
+Run 03 | open-close checkpoint verification: 0.064538 ms
+Run 03 | dne proof extraction: 0.001886 ms
+Run 03 | dne checkpoint proof extraction: 0.013683 ms
+Run 03 | dne proof verification: 0.000969 ms
+Run 03 | dne checkpoint verification: 0.040247 ms
+
+RUN 4
+------------------------------------------------------------------------------------------
+Run 04 | digest creation: 10.551345 ms
+Run 04 | tree construction: 208.573691 ms
+Run 04 | number of trees: 10
+Run 04 | checkpoint construction: 0.151498 ms
+Run 04 | open-open proof extraction: 0.058571 ms
+Run 04 | open-open checkpoint proof extraction: 0.109368 ms
+Run 04 | open-open proof verification: 0.134344 ms
+Run 04 | open-open checkpoint verification: 0.333388 ms
+Run 04 | open-close proof extraction: 0.006839 ms
+Run 04 | open-close checkpoint proof extraction: 0.019763 ms
+Run 04 | open-close proof verification: 0.016180 ms
+Run 04 | open-close checkpoint verification: 0.063629 ms
+Run 04 | dne proof extraction: 0.009605 ms
+Run 04 | dne checkpoint proof extraction: 0.016647 ms
+Run 04 | dne proof verification: 0.028976 ms
+Run 04 | dne checkpoint verification: 0.051952 ms
+
+RUN 5
+------------------------------------------------------------------------------------------
+Run 05 | digest creation: 10.530698 ms
+Run 05 | tree construction: 211.095712 ms
+Run 05 | number of trees: 10
+Run 05 | checkpoint construction: 0.159053 ms
+Run 05 | open-open proof extraction: 0.058369 ms
+Run 05 | open-open checkpoint proof extraction: 0.124674 ms
+Run 05 | open-open proof verification: 0.142190 ms
+Run 05 | open-open checkpoint verification: 0.320651 ms
+Run 05 | open-close proof extraction: 0.007046 ms
+Run 05 | open-close checkpoint proof extraction: 0.019939 ms
+Run 05 | open-close proof verification: 0.015184 ms
+Run 05 | open-close checkpoint verification: 0.061284 ms
+Run 05 | dne proof extraction: 0.010471 ms
+Run 05 | dne checkpoint proof extraction: 0.011788 ms
+Run 05 | dne proof verification: 0.028353 ms
+Run 05 | dne checkpoint verification: 0.027101 ms
+
+RUN 6
+------------------------------------------------------------------------------------------
+Run 06 | digest creation: 10.491331 ms
+Run 06 | tree construction: 214.263177 ms
+Run 06 | number of trees: 10
+Run 06 | checkpoint construction: 0.156621 ms
+Run 06 | open-open proof extraction: 0.054210 ms
+Run 06 | open-open checkpoint proof extraction: 0.117188 ms
+Run 06 | open-open proof verification: 0.142034 ms
+Run 06 | open-open checkpoint verification: 0.333952 ms
+Run 06 | open-close proof extraction: 0.007214 ms
+Run 06 | open-close checkpoint proof extraction: 0.019730 ms
+Run 06 | open-close proof verification: 0.014423 ms
+Run 06 | open-close checkpoint verification: 0.061129 ms
+Run 06 | dne proof extraction: 0.001982 ms
+Run 06 | dne checkpoint proof extraction: 0.003644 ms
+Run 06 | dne proof verification: 0.001267 ms
+Run 06 | dne checkpoint verification: 0.003713 ms
+
+RUN 7
+------------------------------------------------------------------------------------------
+Run 07 | digest creation: 10.615187 ms
+Run 07 | tree construction: 212.162267 ms
+Run 07 | number of trees: 10
+Run 07 | checkpoint construction: 0.155518 ms
+Run 07 | open-open proof extraction: 0.059156 ms
+Run 07 | open-open checkpoint proof extraction: 0.124827 ms
+Run 07 | open-open proof verification: 0.142344 ms
+Run 07 | open-open checkpoint verification: 0.323131 ms
+Run 07 | open-close proof extraction: 0.007247 ms
+Run 07 | open-close checkpoint proof extraction: 0.021193 ms
+Run 07 | open-close proof verification: 0.016273 ms
+Run 07 | open-close checkpoint verification: 0.062181 ms
+Run 07 | dne proof extraction: 0.010759 ms
+Run 07 | dne checkpoint proof extraction: 0.017948 ms
+Run 07 | dne proof verification: 0.027396 ms
+Run 07 | dne checkpoint verification: 0.049875 ms
+
+RUN 8
+------------------------------------------------------------------------------------------
+Run 08 | digest creation: 10.666386 ms
+Run 08 | tree construction: 211.542644 ms
+Run 08 | number of trees: 10
+Run 08 | checkpoint construction: 0.151169 ms
+Run 08 | open-open proof extraction: 0.055080 ms
+Run 08 | open-open checkpoint proof extraction: 0.119557 ms
+Run 08 | open-open proof verification: 0.132433 ms
+Run 08 | open-open checkpoint verification: 0.328700 ms
+Run 08 | open-close proof extraction: 0.007690 ms
+Run 08 | open-close checkpoint proof extraction: 0.018057 ms
+Run 08 | open-close proof verification: 0.013590 ms
+Run 08 | open-close checkpoint verification: 0.061293 ms
+Run 08 | dne proof extraction: 0.010678 ms
+Run 08 | dne checkpoint proof extraction: 0.007175 ms
+Run 08 | dne proof verification: 0.028976 ms
+Run 08 | dne checkpoint verification: 0.003720 ms
+
+RUN 9
+------------------------------------------------------------------------------------------
+Run 09 | digest creation: 10.566673 ms
+Run 09 | tree construction: 212.881131 ms
+Run 09 | number of trees: 10
+Run 09 | checkpoint construction: 0.155761 ms
+Run 09 | open-open proof extraction: 0.058805 ms
+Run 09 | open-open checkpoint proof extraction: 0.123134 ms
+Run 09 | open-open proof verification: 0.154346 ms
+Run 09 | open-open checkpoint verification: 0.338268 ms
+Run 09 | open-close proof extraction: 0.007384 ms
+Run 09 | open-close checkpoint proof extraction: 0.021869 ms
+Run 09 | open-close proof verification: 0.014420 ms
+Run 09 | open-close checkpoint verification: 0.062215 ms
+Run 09 | dne proof extraction: 0.001712 ms
+Run 09 | dne checkpoint proof extraction: 0.013412 ms
+Run 09 | dne proof verification: 0.000810 ms
+Run 09 | dne checkpoint verification: 0.039346 ms
+
+RUN 10
+------------------------------------------------------------------------------------------
+Run 10 | digest creation: 10.553072 ms
+Run 10 | tree construction: 215.730800 ms
+Run 10 | number of trees: 10
+Run 10 | checkpoint construction: 0.155357 ms
+Run 10 | open-open proof extraction: 0.058677 ms
+Run 10 | open-open checkpoint proof extraction: 0.117467 ms
+Run 10 | open-open proof verification: 0.131623 ms
+Run 10 | open-open checkpoint verification: 0.327814 ms
+Run 10 | open-close proof extraction: 0.007295 ms
+Run 10 | open-close checkpoint proof extraction: 0.021572 ms
+Run 10 | open-close proof verification: 0.016002 ms
+Run 10 | open-close checkpoint verification: 0.063072 ms
+Run 10 | dne proof extraction: 0.000908 ms
+Run 10 | dne checkpoint proof extraction: 0.012192 ms
+Run 10 | dne proof verification: 0.001551 ms
+Run 10 | dne checkpoint verification: 0.040059 ms
+
+RUN 11
+------------------------------------------------------------------------------------------
+Run 11 | digest creation: 10.585212 ms
+Run 11 | tree construction: 212.933179 ms
+Run 11 | number of trees: 10
+Run 11 | checkpoint construction: 0.158470 ms
+Run 11 | open-open proof extraction: 0.055909 ms
+Run 11 | open-open checkpoint proof extraction: 0.129610 ms
+Run 11 | open-open proof verification: 0.146370 ms
+Run 11 | open-open checkpoint verification: 0.322456 ms
+Run 11 | open-close proof extraction: 0.007359 ms
+Run 11 | open-close checkpoint proof extraction: 0.022943 ms
+Run 11 | open-close proof verification: 0.015913 ms
+Run 11 | open-close checkpoint verification: 0.062370 ms
+Run 11 | dne proof extraction: 0.001596 ms
+Run 11 | dne checkpoint proof extraction: 0.003066 ms
+Run 11 | dne proof verification: 0.004282 ms
+Run 11 | dne checkpoint verification: 0.000292 ms
+
+RUN 12
+------------------------------------------------------------------------------------------
+Run 12 | digest creation: 10.516080 ms
+Run 12 | tree construction: 216.250791 ms
+Run 12 | number of trees: 10
+Run 12 | checkpoint construction: 0.161161 ms
+Run 12 | open-open proof extraction: 0.057177 ms
+Run 12 | open-open checkpoint proof extraction: 0.129013 ms
+Run 12 | open-open proof verification: 0.133481 ms
+Run 12 | open-open checkpoint verification: 0.332600 ms
+Run 12 | open-close proof extraction: 0.007528 ms
+Run 12 | open-close checkpoint proof extraction: 0.021060 ms
+Run 12 | open-close proof verification: 0.016279 ms
+Run 12 | open-close checkpoint verification: 0.063704 ms
+Run 12 | dne proof extraction: 0.010700 ms
+Run 12 | dne checkpoint proof extraction: 0.014154 ms
+Run 12 | dne proof verification: 0.026040 ms
+Run 12 | dne checkpoint verification: 0.038561 ms
+
+RUN 13
+------------------------------------------------------------------------------------------
+Run 13 | digest creation: 10.667138 ms
+Run 13 | tree construction: 213.369707 ms
+Run 13 | number of trees: 10
+Run 13 | checkpoint construction: 0.158278 ms
+Run 13 | open-open proof extraction: 0.055629 ms
+Run 13 | open-open checkpoint proof extraction: 0.129338 ms
+Run 13 | open-open proof verification: 0.130488 ms
+Run 13 | open-open checkpoint verification: 0.345869 ms
+Run 13 | open-close proof extraction: 0.007413 ms
+Run 13 | open-close checkpoint proof extraction: 0.022037 ms
+Run 13 | open-close proof verification: 0.015896 ms
+Run 13 | open-close checkpoint verification: 0.063448 ms
+Run 13 | dne proof extraction: 0.012739 ms
+Run 13 | dne checkpoint proof extraction: 0.020681 ms
+Run 13 | dne proof verification: 0.028409 ms
+Run 13 | dne checkpoint verification: 0.052124 ms
+
+RUN 14
+------------------------------------------------------------------------------------------
+Run 14 | digest creation: 10.505254 ms
+Run 14 | tree construction: 215.867357 ms
+Run 14 | number of trees: 10
+Run 14 | checkpoint construction: 0.160426 ms
+Run 14 | open-open proof extraction: 0.056973 ms
+Run 14 | open-open checkpoint proof extraction: 0.126534 ms
+Run 14 | open-open proof verification: 0.142239 ms
+Run 14 | open-open checkpoint verification: 0.326674 ms
+Run 14 | open-close proof extraction: 0.007501 ms
+Run 14 | open-close checkpoint proof extraction: 0.024470 ms
+Run 14 | open-close proof verification: 0.014810 ms
+Run 14 | open-close checkpoint verification: 0.061433 ms
+Run 14 | dne proof extraction: 0.002233 ms
+Run 14 | dne checkpoint proof extraction: 0.006979 ms
+Run 14 | dne proof verification: 0.001117 ms
+Run 14 | dne checkpoint verification: 0.003503 ms
+
+RUN 15
+------------------------------------------------------------------------------------------
+Run 15 | digest creation: 10.715350 ms
+Run 15 | tree construction: 210.834500 ms
+Run 15 | number of trees: 10
+Run 15 | checkpoint construction: 0.158842 ms
+Run 15 | open-open proof extraction: 0.058807 ms
+Run 15 | open-open checkpoint proof extraction: 0.130552 ms
+Run 15 | open-open proof verification: 0.142612 ms
+Run 15 | open-open checkpoint verification: 0.329272 ms
+Run 15 | open-close proof extraction: 0.007381 ms
+Run 15 | open-close checkpoint proof extraction: 0.022463 ms
+Run 15 | open-close proof verification: 0.016114 ms
+Run 15 | open-close checkpoint verification: 0.062986 ms
+Run 15 | dne proof extraction: 0.011285 ms
+Run 15 | dne checkpoint proof extraction: 0.023782 ms
+Run 15 | dne proof verification: 0.029364 ms
+Run 15 | dne checkpoint verification: 0.063931 ms
+
+RUN 16
+------------------------------------------------------------------------------------------
+Run 16 | digest creation: 10.562446 ms
+Run 16 | tree construction: 216.905812 ms
+Run 16 | number of trees: 10
+Run 16 | checkpoint construction: 0.156053 ms
+Run 16 | open-open proof extraction: 0.061453 ms
+Run 16 | open-open checkpoint proof extraction: 0.122012 ms
+Run 16 | open-open proof verification: 0.144359 ms
+Run 16 | open-open checkpoint verification: 0.332620 ms
+Run 16 | open-close proof extraction: 0.007652 ms
+Run 16 | open-close checkpoint proof extraction: 0.020896 ms
+Run 16 | open-close proof verification: 0.013770 ms
+Run 16 | open-close checkpoint verification: 0.061171 ms
+Run 16 | dne proof extraction: 0.003897 ms
+Run 16 | dne checkpoint proof extraction: 0.004605 ms
+Run 16 | dne proof verification: 0.004170 ms
+Run 16 | dne checkpoint verification: 0.000338 ms
+
+RUN 17
+------------------------------------------------------------------------------------------
+Run 17 | digest creation: 10.637743 ms
+Run 17 | tree construction: 214.417923 ms
+Run 17 | number of trees: 10
+Run 17 | checkpoint construction: 0.156745 ms
+Run 17 | open-open proof extraction: 0.057580 ms
+Run 17 | open-open checkpoint proof extraction: 0.118257 ms
+Run 17 | open-open proof verification: 0.131508 ms
+Run 17 | open-open checkpoint verification: 0.327709 ms
+Run 17 | open-close proof extraction: 0.007897 ms
+Run 17 | open-close checkpoint proof extraction: 0.021446 ms
+Run 17 | open-close proof verification: 0.016520 ms
+Run 17 | open-close checkpoint verification: 0.063706 ms
+Run 17 | dne proof extraction: 0.001187 ms
+Run 17 | dne checkpoint proof extraction: 0.011274 ms
+Run 17 | dne proof verification: 0.000946 ms
+Run 17 | dne checkpoint verification: 0.038169 ms
+
+RUN 18
+------------------------------------------------------------------------------------------
+Run 18 | digest creation: 10.560116 ms
+Run 18 | tree construction: 217.117054 ms
+Run 18 | number of trees: 10
+Run 18 | checkpoint construction: 0.162165 ms
+Run 18 | open-open proof extraction: 0.054308 ms
+Run 18 | open-open checkpoint proof extraction: 0.125981 ms
+Run 18 | open-open proof verification: 0.131935 ms
+Run 18 | open-open checkpoint verification: 0.324195 ms
+Run 18 | open-close proof extraction: 0.008051 ms
+Run 18 | open-close checkpoint proof extraction: 0.022057 ms
+Run 18 | open-close proof verification: 0.014355 ms
+Run 18 | open-close checkpoint verification: 0.062119 ms
+Run 18 | dne proof extraction: 0.001016 ms
+Run 18 | dne checkpoint proof extraction: 0.014651 ms
+Run 18 | dne proof verification: 0.001634 ms
+Run 18 | dne checkpoint verification: 0.038867 ms
+
+RUN 19
+------------------------------------------------------------------------------------------
+Run 19 | digest creation: 10.693421 ms
+Run 19 | tree construction: 215.261843 ms
+Run 19 | number of trees: 10
+Run 19 | checkpoint construction: 0.157875 ms
+Run 19 | open-open proof extraction: 0.057682 ms
+Run 19 | open-open checkpoint proof extraction: 0.132266 ms
+Run 19 | open-open proof verification: 0.145238 ms
+Run 19 | open-open checkpoint verification: 0.335036 ms
+Run 19 | open-close proof extraction: 0.007307 ms
+Run 19 | open-close checkpoint proof extraction: 0.022106 ms
+Run 19 | open-close proof verification: 0.016086 ms
+Run 19 | open-close checkpoint verification: 0.063949 ms
+Run 19 | dne proof extraction: 0.010905 ms
+Run 19 | dne checkpoint proof extraction: 0.005484 ms
+Run 19 | dne proof verification: 0.027853 ms
+Run 19 | dne checkpoint verification: 0.003921 ms
+
+RUN 20
+------------------------------------------------------------------------------------------
+Run 20 | digest creation: 10.542878 ms
+Run 20 | tree construction: 216.645530 ms
+Run 20 | number of trees: 10
+Run 20 | checkpoint construction: 0.161718 ms
+Run 20 | open-open proof extraction: 0.097323 ms
+Run 20 | open-open checkpoint proof extraction: 0.128254 ms
+Run 20 | open-open proof verification: 0.140170 ms
+Run 20 | open-open checkpoint verification: 0.323679 ms
+Run 20 | open-close proof extraction: 0.007556 ms
+Run 20 | open-close checkpoint proof extraction: 0.022216 ms
+Run 20 | open-close proof verification: 0.014119 ms
+Run 20 | open-close checkpoint verification: 0.063192 ms
+Run 20 | dne proof extraction: 0.003583 ms
+Run 20 | dne checkpoint proof extraction: 0.001330 ms
+Run 20 | dne proof verification: 0.004279 ms
+Run 20 | dne checkpoint verification: 0.000271 ms
+
+RUN 21
+------------------------------------------------------------------------------------------
+Run 21 | digest creation: 10.670655 ms
+Run 21 | tree construction: 214.497310 ms
+Run 21 | number of trees: 10
+Run 21 | checkpoint construction: 0.157170 ms
+Run 21 | open-open proof extraction: 0.060580 ms
+Run 21 | open-open checkpoint proof extraction: 0.124023 ms
+Run 21 | open-open proof verification: 0.140682 ms
+Run 21 | open-open checkpoint verification: 0.327871 ms
+Run 21 | open-close proof extraction: 0.007742 ms
+Run 21 | open-close checkpoint proof extraction: 0.044849 ms
+Run 21 | open-close proof verification: 0.016307 ms
+Run 21 | open-close checkpoint verification: 0.062860 ms
+Run 21 | dne proof extraction: 0.010057 ms
+Run 21 | dne checkpoint proof extraction: 0.002364 ms
+Run 21 | dne proof verification: 0.025712 ms
+Run 21 | dne checkpoint verification: 0.003418 ms
+
+RUN 22
+------------------------------------------------------------------------------------------
+Run 22 | digest creation: 10.692477 ms
+Run 22 | tree construction: 217.940604 ms
+Run 22 | number of trees: 10
+Run 22 | checkpoint construction: 0.175252 ms
+Run 22 | open-open proof extraction: 0.057370 ms
+Run 22 | open-open checkpoint proof extraction: 0.124163 ms
+Run 22 | open-open proof verification: 0.134302 ms
+Run 22 | open-open checkpoint verification: 0.337303 ms
+Run 22 | open-close proof extraction: 0.007520 ms
+Run 22 | open-close checkpoint proof extraction: 0.022626 ms
+Run 22 | open-close proof verification: 0.016313 ms
+Run 22 | open-close checkpoint verification: 0.063957 ms
+Run 22 | dne proof extraction: 0.011028 ms
+Run 22 | dne checkpoint proof extraction: 0.004287 ms
+Run 22 | dne proof verification: 0.028076 ms
+Run 22 | dne checkpoint verification: 0.003505 ms
+
+RUN 23
+------------------------------------------------------------------------------------------
+Run 23 | digest creation: 10.660709 ms
+Run 23 | tree construction: 214.720311 ms
+Run 23 | number of trees: 10
+Run 23 | checkpoint construction: 0.166838 ms
+Run 23 | open-open proof extraction: 0.058393 ms
+Run 23 | open-open checkpoint proof extraction: 0.132932 ms
+Run 23 | open-open proof verification: 0.144201 ms
+Run 23 | open-open checkpoint verification: 0.325707 ms
+Run 23 | open-close proof extraction: 0.006984 ms
+Run 23 | open-close checkpoint proof extraction: 0.022495 ms
+Run 23 | open-close proof verification: 0.023584 ms
+Run 23 | open-close checkpoint verification: 0.062487 ms
+Run 23 | dne proof extraction: 0.011808 ms
+Run 23 | dne checkpoint proof extraction: 0.007193 ms
+Run 23 | dne proof verification: 0.027184 ms
+Run 23 | dne checkpoint verification: 0.015328 ms
+
+RUN 24
+------------------------------------------------------------------------------------------
+Run 24 | digest creation: 10.765476 ms
+Run 24 | tree construction: 217.568625 ms
+Run 24 | number of trees: 10
+Run 24 | checkpoint construction: 0.158031 ms
+Run 24 | open-open proof extraction: 0.058074 ms
+Run 24 | open-open checkpoint proof extraction: 0.121644 ms
+Run 24 | open-open proof verification: 0.143837 ms
+Run 24 | open-open checkpoint verification: 0.330628 ms
+Run 24 | open-close proof extraction: 0.007540 ms
+Run 24 | open-close checkpoint proof extraction: 0.023001 ms
+Run 24 | open-close proof verification: 0.016517 ms
+Run 24 | open-close checkpoint verification: 0.065289 ms
+Run 24 | dne proof extraction: 0.012205 ms
+Run 24 | dne checkpoint proof extraction: 0.020384 ms
+Run 24 | dne proof verification: 0.027654 ms
+Run 24 | dne checkpoint verification: 0.050312 ms
+
+RUN 25
+------------------------------------------------------------------------------------------
+Run 25 | digest creation: 10.679741 ms
+Run 25 | tree construction: 210.606013 ms
+Run 25 | number of trees: 10
+Run 25 | checkpoint construction: 0.161893 ms
+Run 25 | open-open proof extraction: 0.058239 ms
+Run 25 | open-open checkpoint proof extraction: 0.121134 ms
+Run 25 | open-open proof verification: 0.131941 ms
+Run 25 | open-open checkpoint verification: 0.329856 ms
+Run 25 | open-close proof extraction: 0.007657 ms
+Run 25 | open-close checkpoint proof extraction: 0.021455 ms
+Run 25 | open-close proof verification: 0.016121 ms
+Run 25 | open-close checkpoint verification: 0.062432 ms
+Run 25 | dne proof extraction: 0.011883 ms
+Run 25 | dne checkpoint proof extraction: 0.022331 ms
+Run 25 | dne proof verification: 0.028545 ms
+Run 25 | dne checkpoint verification: 0.051444 ms
+
+RUN 26
+------------------------------------------------------------------------------------------
+Run 26 | digest creation: 10.664333 ms
+Run 26 | tree construction: 228.044989 ms
+Run 26 | number of trees: 10
+Run 26 | checkpoint construction: 0.165034 ms
+Run 26 | open-open proof extraction: 0.061923 ms
+Run 26 | open-open checkpoint proof extraction: 0.137031 ms
+Run 26 | open-open proof verification: 0.144683 ms
+Run 26 | open-open checkpoint verification: 0.345931 ms
+Run 26 | open-close proof extraction: 0.007989 ms
+Run 26 | open-close checkpoint proof extraction: 0.024850 ms
+Run 26 | open-close proof verification: 0.014287 ms
+Run 26 | open-close checkpoint verification: 0.060796 ms
+Run 26 | dne proof extraction: 0.013282 ms
+Run 26 | dne checkpoint proof extraction: 0.010065 ms
+Run 26 | dne proof verification: 0.027780 ms
+Run 26 | dne checkpoint verification: 0.003581 ms
+
+RUN 27
+------------------------------------------------------------------------------------------
+Run 27 | digest creation: 10.726547 ms
+Run 27 | tree construction: 215.537206 ms
+Run 27 | number of trees: 10
+Run 27 | checkpoint construction: 0.167390 ms
+Run 27 | open-open proof extraction: 0.059618 ms
+Run 27 | open-open checkpoint proof extraction: 0.130417 ms
+Run 27 | open-open proof verification: 0.134265 ms
+Run 27 | open-open checkpoint verification: 0.331448 ms
+Run 27 | open-close proof extraction: 0.007966 ms
+Run 27 | open-close checkpoint proof extraction: 0.022878 ms
+Run 27 | open-close proof verification: 0.015942 ms
+Run 27 | open-close checkpoint verification: 0.064414 ms
+Run 27 | dne proof extraction: 0.013315 ms
+Run 27 | dne checkpoint proof extraction: 0.024259 ms
+Run 27 | dne proof verification: 0.028088 ms
+Run 27 | dne checkpoint verification: 0.066660 ms
+
+RUN 28
+------------------------------------------------------------------------------------------
+Run 28 | digest creation: 10.712396 ms
+Run 28 | tree construction: 218.908491 ms
+Run 28 | number of trees: 10
+Run 28 | checkpoint construction: 0.178679 ms
+Run 28 | open-open proof extraction: 0.195094 ms
+Run 28 | open-open checkpoint proof extraction: 0.132788 ms
+Run 28 | open-open proof verification: 0.131984 ms
+Run 28 | open-open checkpoint verification: 0.325499 ms
+Run 28 | open-close proof extraction: 0.007053 ms
+Run 28 | open-close checkpoint proof extraction: 0.023459 ms
+Run 28 | open-close proof verification: 0.015372 ms
+Run 28 | open-close checkpoint verification: 0.061780 ms
+Run 28 | dne proof extraction: 0.013341 ms
+Run 28 | dne checkpoint proof extraction: 0.022447 ms
+Run 28 | dne proof verification: 0.028819 ms
+Run 28 | dne checkpoint verification: 0.054219 ms
+
+RUN 29
+------------------------------------------------------------------------------------------
+Run 29 | digest creation: 10.923661 ms
+Run 29 | tree construction: 216.999216 ms
+Run 29 | number of trees: 10
+Run 29 | checkpoint construction: 0.166052 ms
+Run 29 | open-open proof extraction: 0.057997 ms
+Run 29 | open-open checkpoint proof extraction: 0.128928 ms
+Run 29 | open-open proof verification: 0.144502 ms
+Run 29 | open-open checkpoint verification: 0.321337 ms
+Run 29 | open-close proof extraction: 0.007482 ms
+Run 29 | open-close checkpoint proof extraction: 0.023018 ms
+Run 29 | open-close proof verification: 0.014979 ms
+Run 29 | open-close checkpoint verification: 0.061569 ms
+Run 29 | dne proof extraction: 0.011621 ms
+Run 29 | dne checkpoint proof extraction: 0.015473 ms
+Run 29 | dne proof verification: 0.028034 ms
+Run 29 | dne checkpoint verification: 0.027097 ms
+
+RUN 30
+------------------------------------------------------------------------------------------
+Run 30 | digest creation: 10.704603 ms
+Run 30 | tree construction: 217.217477 ms
+Run 30 | number of trees: 10
+Run 30 | checkpoint construction: 0.164354 ms
+Run 30 | open-open proof extraction: 0.057088 ms
+Run 30 | open-open checkpoint proof extraction: 0.123123 ms
+Run 30 | open-open proof verification: 0.131481 ms
+Run 30 | open-open checkpoint verification: 0.326400 ms
+Run 30 | open-close proof extraction: 0.006706 ms
+Run 30 | open-close checkpoint proof extraction: 0.021453 ms
+Run 30 | open-close proof verification: 0.015783 ms
+Run 30 | open-close checkpoint verification: 0.062532 ms
+Run 30 | dne proof extraction: 0.011603 ms
+Run 30 | dne checkpoint proof extraction: 0.019850 ms
+Run 30 | dne proof verification: 0.026622 ms
+Run 30 | dne checkpoint verification: 0.052502 ms
+
+RUN 31
+------------------------------------------------------------------------------------------
+Run 31 | digest creation: 10.854628 ms
+Run 31 | tree construction: 216.047895 ms
+Run 31 | number of trees: 10
+Run 31 | checkpoint construction: 0.166008 ms
+Run 31 | open-open proof extraction: 0.114847 ms
+Run 31 | open-open checkpoint proof extraction: 0.126272 ms
+Run 31 | open-open proof verification: 0.129234 ms
+Run 31 | open-open checkpoint verification: 0.330811 ms
+Run 31 | open-close proof extraction: 0.007683 ms
+Run 31 | open-close checkpoint proof extraction: 0.022522 ms
+Run 31 | open-close proof verification: 0.015898 ms
+Run 31 | open-close checkpoint verification: 0.062776 ms
+Run 31 | dne proof extraction: 0.003606 ms
+Run 31 | dne checkpoint proof extraction: 0.018867 ms
+Run 31 | dne proof verification: 0.001566 ms
+Run 31 | dne checkpoint verification: 0.040149 ms
+
+RUN 32
+------------------------------------------------------------------------------------------
+Run 32 | digest creation: 10.636026 ms
+Run 32 | tree construction: 217.778904 ms
+Run 32 | number of trees: 10
+Run 32 | checkpoint construction: 0.160509 ms
+Run 32 | open-open proof extraction: 0.155246 ms
+Run 32 | open-open checkpoint proof extraction: 0.120629 ms
+Run 32 | open-open proof verification: 0.131133 ms
+Run 32 | open-open checkpoint verification: 0.333406 ms
+Run 32 | open-close proof extraction: 0.007464 ms
+Run 32 | open-close checkpoint proof extraction: 0.021515 ms
+Run 32 | open-close proof verification: 0.014950 ms
+Run 32 | open-close checkpoint verification: 0.062594 ms
+Run 32 | dne proof extraction: 0.001699 ms
+Run 32 | dne checkpoint proof extraction: 0.004325 ms
+Run 32 | dne proof verification: 0.002380 ms
+Run 32 | dne checkpoint verification: 0.000256 ms
+
+RUN 33
+------------------------------------------------------------------------------------------
+Run 33 | digest creation: 10.726115 ms
+Run 33 | tree construction: 215.944306 ms
+Run 33 | number of trees: 10
+Run 33 | checkpoint construction: 0.164552 ms
+Run 33 | open-open proof extraction: 0.057325 ms
+Run 33 | open-open checkpoint proof extraction: 0.128282 ms
+Run 33 | open-open proof verification: 0.146528 ms
+Run 33 | open-open checkpoint verification: 0.357875 ms
+Run 33 | open-close proof extraction: 0.008226 ms
+Run 33 | open-close checkpoint proof extraction: 0.021967 ms
+Run 33 | open-close proof verification: 0.016078 ms
+Run 33 | open-close checkpoint verification: 0.063699 ms
+Run 33 | dne proof extraction: 0.010258 ms
+Run 33 | dne checkpoint proof extraction: 0.002649 ms
+Run 33 | dne proof verification: 0.025944 ms
+Run 33 | dne checkpoint verification: 0.003155 ms
+
+RUN 34
+------------------------------------------------------------------------------------------
+Run 34 | digest creation: 10.578899 ms
+Run 34 | tree construction: 217.612992 ms
+Run 34 | number of trees: 10
+Run 34 | checkpoint construction: 0.162036 ms
+Run 34 | open-open proof extraction: 0.069663 ms
+Run 34 | open-open checkpoint proof extraction: 0.123567 ms
+Run 34 | open-open proof verification: 0.142098 ms
+Run 34 | open-open checkpoint verification: 0.328959 ms
+Run 34 | open-close proof extraction: 0.007055 ms
+Run 34 | open-close checkpoint proof extraction: 0.021928 ms
+Run 34 | open-close proof verification: 0.016115 ms
+Run 34 | open-close checkpoint verification: 0.062778 ms
+Run 34 | dne proof extraction: 0.011459 ms
+Run 34 | dne checkpoint proof extraction: 0.012728 ms
+Run 34 | dne proof verification: 0.027688 ms
+Run 34 | dne checkpoint verification: 0.026727 ms
+
+RUN 35
+------------------------------------------------------------------------------------------
+Run 35 | digest creation: 10.702201 ms
+Run 35 | tree construction: 215.672210 ms
+Run 35 | number of trees: 10
+Run 35 | checkpoint construction: 0.167138 ms
+Run 35 | open-open proof extraction: 0.057584 ms
+Run 35 | open-open checkpoint proof extraction: 0.129074 ms
+Run 35 | open-open proof verification: 0.129131 ms
+Run 35 | open-open checkpoint verification: 0.320794 ms
+Run 35 | open-close proof extraction: 0.007278 ms
+Run 35 | open-close checkpoint proof extraction: 0.022624 ms
+Run 35 | open-close proof verification: 0.016336 ms
+Run 35 | open-close checkpoint verification: 0.062623 ms
+Run 35 | dne proof extraction: 0.003532 ms
+Run 35 | dne checkpoint proof extraction: 0.014141 ms
+Run 35 | dne proof verification: 0.001646 ms
+Run 35 | dne checkpoint verification: 0.039316 ms
+
+RUN 36
+------------------------------------------------------------------------------------------
+Run 36 | digest creation: 10.608980 ms
+Run 36 | tree construction: 216.951603 ms
+Run 36 | number of trees: 10
+Run 36 | checkpoint construction: 0.161002 ms
+Run 36 | open-open proof extraction: 0.061818 ms
+Run 36 | open-open checkpoint proof extraction: 0.128064 ms
+Run 36 | open-open proof verification: 0.131943 ms
+Run 36 | open-open checkpoint verification: 0.332785 ms
+Run 36 | open-close proof extraction: 0.007862 ms
+Run 36 | open-close checkpoint proof extraction: 0.021854 ms
+Run 36 | open-close proof verification: 0.016079 ms
+Run 36 | open-close checkpoint verification: 0.062646 ms
+Run 36 | dne proof extraction: 0.001030 ms
+Run 36 | dne checkpoint proof extraction: 0.014993 ms
+Run 36 | dne proof verification: 0.001676 ms
+Run 36 | dne checkpoint verification: 0.040451 ms
+
+RUN 37
+------------------------------------------------------------------------------------------
+Run 37 | digest creation: 10.808397 ms
+Run 37 | tree construction: 215.186682 ms
+Run 37 | number of trees: 10
+Run 37 | checkpoint construction: 0.158342 ms
+Run 37 | open-open proof extraction: 0.057944 ms
+Run 37 | open-open checkpoint proof extraction: 0.123935 ms
+Run 37 | open-open proof verification: 0.129843 ms
+Run 37 | open-open checkpoint verification: 0.330593 ms
+Run 37 | open-close proof extraction: 0.007598 ms
+Run 37 | open-close checkpoint proof extraction: 0.020663 ms
+Run 37 | open-close proof verification: 0.015056 ms
+Run 37 | open-close checkpoint verification: 0.062736 ms
+Run 37 | dne proof extraction: 0.010641 ms
+Run 37 | dne checkpoint proof extraction: 0.017397 ms
+Run 37 | dne proof verification: 0.030485 ms
+Run 37 | dne checkpoint verification: 0.040348 ms
+
+RUN 38
+------------------------------------------------------------------------------------------
+Run 38 | digest creation: 10.628896 ms
+Run 38 | tree construction: 217.427316 ms
+Run 38 | number of trees: 10
+Run 38 | checkpoint construction: 0.160757 ms
+Run 38 | open-open proof extraction: 0.057938 ms
+Run 38 | open-open checkpoint proof extraction: 0.120675 ms
+Run 38 | open-open proof verification: 0.136716 ms
+Run 38 | open-open checkpoint verification: 0.327749 ms
+Run 38 | open-close proof extraction: 0.007918 ms
+Run 38 | open-close checkpoint proof extraction: 0.020931 ms
+Run 38 | open-close proof verification: 0.015224 ms
+Run 38 | open-close checkpoint verification: 0.062978 ms
+Run 38 | dne proof extraction: 0.003795 ms
+Run 38 | dne checkpoint proof extraction: 0.016438 ms
+Run 38 | dne proof verification: 0.000990 ms
+Run 38 | dne checkpoint verification: 0.038642 ms
+
+RUN 39
+------------------------------------------------------------------------------------------
+Run 39 | digest creation: 10.752784 ms
+Run 39 | tree construction: 215.276935 ms
+Run 39 | number of trees: 10
+Run 39 | checkpoint construction: 0.163827 ms
+Run 39 | open-open proof extraction: 0.125863 ms
+Run 39 | open-open checkpoint proof extraction: 0.125740 ms
+Run 39 | open-open proof verification: 0.141731 ms
+Run 39 | open-open checkpoint verification: 0.326680 ms
+Run 39 | open-close proof extraction: 0.007496 ms
+Run 39 | open-close checkpoint proof extraction: 0.021794 ms
+Run 39 | open-close proof verification: 0.015195 ms
+Run 39 | open-close checkpoint verification: 0.061905 ms
+Run 39 | dne proof extraction: 0.001058 ms
+Run 39 | dne checkpoint proof extraction: 0.005135 ms
+Run 39 | dne proof verification: 0.001303 ms
+Run 39 | dne checkpoint verification: 0.003371 ms
+
+RUN 40
+------------------------------------------------------------------------------------------
+Run 40 | digest creation: 10.656452 ms
+Run 40 | tree construction: 218.968600 ms
+Run 40 | number of trees: 10
+Run 40 | checkpoint construction: 0.163441 ms
+Run 40 | open-open proof extraction: 0.059212 ms
+Run 40 | open-open checkpoint proof extraction: 0.127422 ms
+Run 40 | open-open proof verification: 0.135849 ms
+Run 40 | open-open checkpoint verification: 0.336403 ms
+Run 40 | open-close proof extraction: 0.007536 ms
+Run 40 | open-close checkpoint proof extraction: 0.021219 ms
+Run 40 | open-close proof verification: 0.015712 ms
+Run 40 | open-close checkpoint verification: 0.064734 ms
+Run 40 | dne proof extraction: 0.010599 ms
+Run 40 | dne checkpoint proof extraction: 0.014129 ms
+Run 40 | dne proof verification: 0.026590 ms
+Run 40 | dne checkpoint verification: 0.040015 ms
+
+RUN 41
+------------------------------------------------------------------------------------------
+Run 41 | digest creation: 10.765263 ms
+Run 41 | tree construction: 216.089654 ms
+Run 41 | number of trees: 10
+Run 41 | checkpoint construction: 0.159925 ms
+Run 41 | open-open proof extraction: 0.059051 ms
+Run 41 | open-open checkpoint proof extraction: 0.119326 ms
+Run 41 | open-open proof verification: 0.130532 ms
+Run 41 | open-open checkpoint verification: 0.329672 ms
+Run 41 | open-close proof extraction: 0.007642 ms
+Run 41 | open-close checkpoint proof extraction: 0.020629 ms
+Run 41 | open-close proof verification: 0.016304 ms
+Run 41 | open-close checkpoint verification: 0.062106 ms
+Run 41 | dne proof extraction: 0.012037 ms
+Run 41 | dne checkpoint proof extraction: 0.006892 ms
+Run 41 | dne proof verification: 0.027707 ms
+Run 41 | dne checkpoint verification: 0.003638 ms
+
+RUN 42
+------------------------------------------------------------------------------------------
+Run 42 | digest creation: 10.661852 ms
+Run 42 | tree construction: 218.434307 ms
+Run 42 | number of trees: 10
+Run 42 | checkpoint construction: 0.161807 ms
+Run 42 | open-open proof extraction: 0.110624 ms
+Run 42 | open-open checkpoint proof extraction: 0.130505 ms
+Run 42 | open-open proof verification: 0.141080 ms
+Run 42 | open-open checkpoint verification: 0.328700 ms
+Run 42 | open-close proof extraction: 0.008202 ms
+Run 42 | open-close checkpoint proof extraction: 0.022384 ms
+Run 42 | open-close proof verification: 0.015878 ms
+Run 42 | open-close checkpoint verification: 0.062791 ms
+Run 42 | dne proof extraction: 0.003991 ms
+Run 42 | dne checkpoint proof extraction: 0.014259 ms
+Run 42 | dne proof verification: 0.000877 ms
+Run 42 | dne checkpoint verification: 0.038508 ms
+
+RUN 43
+------------------------------------------------------------------------------------------
+Run 43 | digest creation: 10.850225 ms
+Run 43 | tree construction: 215.438148 ms
+Run 43 | number of trees: 10
+Run 43 | checkpoint construction: 0.159622 ms
+Run 43 | open-open proof extraction: 0.109303 ms
+Run 43 | open-open checkpoint proof extraction: 0.122157 ms
+Run 43 | open-open proof verification: 0.134445 ms
+Run 43 | open-open checkpoint verification: 0.327731 ms
+Run 43 | open-close proof extraction: 0.007002 ms
+Run 43 | open-close checkpoint proof extraction: 0.020953 ms
+Run 43 | open-close proof verification: 0.015041 ms
+Run 43 | open-close checkpoint verification: 0.062867 ms
+Run 43 | dne proof extraction: 0.001017 ms
+Run 43 | dne checkpoint proof extraction: 0.014594 ms
+Run 43 | dne proof verification: 0.001185 ms
+Run 43 | dne checkpoint verification: 0.040121 ms
+
+RUN 44
+------------------------------------------------------------------------------------------
+Run 44 | digest creation: 10.692802 ms
+Run 44 | tree construction: 218.480880 ms
+Run 44 | number of trees: 10
+Run 44 | checkpoint construction: 0.155020 ms
+Run 44 | open-open proof extraction: 0.057183 ms
+Run 44 | open-open checkpoint proof extraction: 0.123289 ms
+Run 44 | open-open proof verification: 0.129991 ms
+Run 44 | open-open checkpoint verification: 0.327818 ms
+Run 44 | open-close proof extraction: 0.006851 ms
+Run 44 | open-close checkpoint proof extraction: 0.023745 ms
+Run 44 | open-close proof verification: 0.014806 ms
+Run 44 | open-close checkpoint verification: 0.061780 ms
+Run 44 | dne proof extraction: 0.011471 ms
+Run 44 | dne checkpoint proof extraction: 0.025447 ms
+Run 44 | dne proof verification: 0.027112 ms
+Run 44 | dne checkpoint verification: 0.063831 ms
+
+RUN 45
+------------------------------------------------------------------------------------------
+Run 45 | digest creation: 10.806354 ms
+Run 45 | tree construction: 215.310516 ms
+Run 45 | number of trees: 10
+Run 45 | checkpoint construction: 0.160080 ms
+Run 45 | open-open proof extraction: 0.167949 ms
+Run 45 | open-open checkpoint proof extraction: 0.129457 ms
+Run 45 | open-open proof verification: 0.141623 ms
+Run 45 | open-open checkpoint verification: 0.329987 ms
+Run 45 | open-close proof extraction: 0.007252 ms
+Run 45 | open-close checkpoint proof extraction: 0.021455 ms
+Run 45 | open-close proof verification: 0.014133 ms
+Run 45 | open-close checkpoint verification: 0.060734 ms
+Run 45 | dne proof extraction: 0.011189 ms
+Run 45 | dne checkpoint proof extraction: 0.017487 ms
+Run 45 | dne proof verification: 0.028907 ms
+Run 45 | dne checkpoint verification: 0.040427 ms
+
+RUN 46
+------------------------------------------------------------------------------------------
+Run 46 | digest creation: 10.682396 ms
+Run 46 | tree construction: 218.267026 ms
+Run 46 | number of trees: 10
+Run 46 | checkpoint construction: 0.167290 ms
+Run 46 | open-open proof extraction: 0.162197 ms
+Run 46 | open-open checkpoint proof extraction: 0.131226 ms
+Run 46 | open-open proof verification: 0.145355 ms
+Run 46 | open-open checkpoint verification: 0.333809 ms
+Run 46 | open-close proof extraction: 0.007447 ms
+Run 46 | open-close checkpoint proof extraction: 0.023088 ms
+Run 46 | open-close proof verification: 0.016354 ms
+Run 46 | open-close checkpoint verification: 0.063548 ms
+Run 46 | dne proof extraction: 0.012406 ms
+Run 46 | dne checkpoint proof extraction: 0.011548 ms
+Run 46 | dne proof verification: 0.027502 ms
+Run 46 | dne checkpoint verification: 0.015416 ms
+
+RUN 47
+------------------------------------------------------------------------------------------
+Run 47 | digest creation: 10.814403 ms
+Run 47 | tree construction: 215.975358 ms
+Run 47 | number of trees: 10
+Run 47 | checkpoint construction: 0.164416 ms
+Run 47 | open-open proof extraction: 0.059453 ms
+Run 47 | open-open checkpoint proof extraction: 0.133529 ms
+Run 47 | open-open proof verification: 0.143022 ms
+Run 47 | open-open checkpoint verification: 0.324469 ms
+Run 47 | open-close proof extraction: 0.007626 ms
+Run 47 | open-close checkpoint proof extraction: 0.023255 ms
+Run 47 | open-close proof verification: 0.015387 ms
+Run 47 | open-close checkpoint verification: 0.066726 ms
+Run 47 | dne proof extraction: 0.012840 ms
+Run 47 | dne checkpoint proof extraction: 0.019186 ms
+Run 47 | dne proof verification: 0.026824 ms
+Run 47 | dne checkpoint verification: 0.051208 ms
+
+RUN 48
+------------------------------------------------------------------------------------------
+Run 48 | digest creation: 10.657320 ms
+Run 48 | tree construction: 214.543754 ms
+Run 48 | number of trees: 10
+Run 48 | checkpoint construction: 0.168170 ms
+Run 48 | open-open proof extraction: 0.061813 ms
+Run 48 | open-open checkpoint proof extraction: 0.121726 ms
+Run 48 | open-open proof verification: 0.154963 ms
+Run 48 | open-open checkpoint verification: 0.337629 ms
+Run 48 | open-close proof extraction: 0.008008 ms
+Run 48 | open-close checkpoint proof extraction: 0.022417 ms
+Run 48 | open-close proof verification: 0.014221 ms
+Run 48 | open-close checkpoint verification: 0.062100 ms
+Run 48 | dne proof extraction: 0.003353 ms
+Run 48 | dne checkpoint proof extraction: 0.017094 ms
+Run 48 | dne proof verification: 0.001349 ms
+Run 48 | dne checkpoint verification: 0.043230 ms
+
+RUN 49
+------------------------------------------------------------------------------------------
+Run 49 | digest creation: 10.828520 ms
+Run 49 | tree construction: 215.892689 ms
+Run 49 | number of trees: 10
+Run 49 | checkpoint construction: 0.153879 ms
+Run 49 | open-open proof extraction: 0.127747 ms
+Run 49 | open-open checkpoint proof extraction: 0.120965 ms
+Run 49 | open-open proof verification: 0.129559 ms
+Run 49 | open-open checkpoint verification: 0.333720 ms
+Run 49 | open-close proof extraction: 0.008037 ms
+Run 49 | open-close checkpoint proof extraction: 0.021767 ms
+Run 49 | open-close proof verification: 0.016341 ms
+Run 49 | open-close checkpoint verification: 0.062693 ms
+Run 49 | dne proof extraction: 0.010776 ms
+Run 49 | dne checkpoint proof extraction: 0.021865 ms
+Run 49 | dne proof verification: 0.027872 ms
+Run 49 | dne checkpoint verification: 0.051259 ms
+
+RUN 50
+------------------------------------------------------------------------------------------
+Run 50 | digest creation: 10.714040 ms
+Run 50 | tree construction: 215.268970 ms
+Run 50 | number of trees: 10
+Run 50 | checkpoint construction: 0.170157 ms
+Run 50 | open-open proof extraction: 0.060249 ms
+Run 50 | open-open checkpoint proof extraction: 0.140151 ms
+Run 50 | open-open proof verification: 0.145840 ms
+Run 50 | open-open checkpoint verification: 0.340585 ms
+Run 50 | open-close proof extraction: 0.008262 ms
+Run 50 | open-close checkpoint proof extraction: 0.027375 ms
+Run 50 | open-close proof verification: 0.014726 ms
+Run 50 | open-close checkpoint verification: 0.061904 ms
+Run 50 | dne proof extraction: 0.019264 ms
+Run 50 | dne checkpoint proof extraction: 0.021493 ms
+Run 50 | dne proof verification: 0.037220 ms
+Run 50 | dne checkpoint verification: 0.018072 ms
+
+RUN 51
+------------------------------------------------------------------------------------------
+Run 51 | digest creation: 10.917221 ms
+Run 51 | tree construction: 214.994351 ms
+Run 51 | number of trees: 10
+Run 51 | checkpoint construction: 0.155439 ms
+Run 51 | open-open proof extraction: 0.108354 ms
+Run 51 | open-open checkpoint proof extraction: 0.125512 ms
+Run 51 | open-open proof verification: 0.152235 ms
+Run 51 | open-open checkpoint verification: 0.330319 ms
+Run 51 | open-close proof extraction: 0.007630 ms
+Run 51 | open-close checkpoint proof extraction: 0.023270 ms
+Run 51 | open-close proof verification: 0.015664 ms
+Run 51 | open-close checkpoint verification: 0.064697 ms
+Run 51 | dne proof extraction: 0.011877 ms
+Run 51 | dne checkpoint proof extraction: 0.005118 ms
+Run 51 | dne proof verification: 0.027809 ms
+Run 51 | dne checkpoint verification: 0.003591 ms
+
+RUN 52
+------------------------------------------------------------------------------------------
+Run 52 | digest creation: 10.717089 ms
+Run 52 | tree construction: 214.830652 ms
+Run 52 | number of trees: 10
+Run 52 | checkpoint construction: 0.161923 ms
+Run 52 | open-open proof extraction: 0.058536 ms
+Run 52 | open-open checkpoint proof extraction: 0.127174 ms
+Run 52 | open-open proof verification: 0.131206 ms
+Run 52 | open-open checkpoint verification: 0.329050 ms
+Run 52 | open-close proof extraction: 0.007611 ms
+Run 52 | open-close checkpoint proof extraction: 0.022738 ms
+Run 52 | open-close proof verification: 0.015680 ms
+Run 52 | open-close checkpoint verification: 0.063885 ms
+Run 52 | dne proof extraction: 0.003641 ms
+Run 52 | dne checkpoint proof extraction: 0.002747 ms
+Run 52 | dne proof verification: 0.000912 ms
+Run 52 | dne checkpoint verification: 0.003030 ms
+
+RUN 53
+------------------------------------------------------------------------------------------
+Run 53 | digest creation: 12.188052 ms
+Run 53 | tree construction: 230.446121 ms
+Run 53 | number of trees: 10
+Run 53 | checkpoint construction: 0.165797 ms
+Run 53 | open-open proof extraction: 0.059456 ms
+Run 53 | open-open checkpoint proof extraction: 0.129096 ms
+Run 53 | open-open proof verification: 0.130381 ms
+Run 53 | open-open checkpoint verification: 0.346317 ms
+Run 53 | open-close proof extraction: 0.007403 ms
+Run 53 | open-close checkpoint proof extraction: 0.024161 ms
+Run 53 | open-close proof verification: 0.015333 ms
+Run 53 | open-close checkpoint verification: 0.064657 ms
+Run 53 | dne proof extraction: 0.001052 ms
+Run 53 | dne checkpoint proof extraction: 0.002356 ms
+Run 53 | dne proof verification: 0.000811 ms
+Run 53 | dne checkpoint verification: 0.002374 ms
+
+RUN 54
+------------------------------------------------------------------------------------------
+Run 54 | digest creation: 10.663581 ms
+Run 54 | tree construction: 214.564242 ms
+Run 54 | number of trees: 10
+Run 54 | checkpoint construction: 0.164262 ms
+Run 54 | open-open proof extraction: 0.059307 ms
+Run 54 | open-open checkpoint proof extraction: 0.129117 ms
+Run 54 | open-open proof verification: 0.153234 ms
+Run 54 | open-open checkpoint verification: 0.322672 ms
+Run 54 | open-close proof extraction: 0.007903 ms
+Run 54 | open-close checkpoint proof extraction: 0.022377 ms
+Run 54 | open-close proof verification: 0.015028 ms
+Run 54 | open-close checkpoint verification: 0.061607 ms
+Run 54 | dne proof extraction: 0.011115 ms
+Run 54 | dne checkpoint proof extraction: 0.009365 ms
+Run 54 | dne proof verification: 0.025729 ms
+Run 54 | dne checkpoint verification: 0.026299 ms
+
+RUN 55
+------------------------------------------------------------------------------------------
+Run 55 | digest creation: 11.176188 ms
+Run 55 | tree construction: 216.011545 ms
+Run 55 | number of trees: 10
+Run 55 | checkpoint construction: 0.155686 ms
+Run 55 | open-open proof extraction: 0.061262 ms
+Run 55 | open-open checkpoint proof extraction: 0.116836 ms
+Run 55 | open-open proof verification: 0.131249 ms
+Run 55 | open-open checkpoint verification: 0.327953 ms
+Run 55 | open-close proof extraction: 0.007949 ms
+Run 55 | open-close checkpoint proof extraction: 0.020682 ms
+Run 55 | open-close proof verification: 0.016578 ms
+Run 55 | open-close checkpoint verification: 0.063261 ms
+Run 55 | dne proof extraction: 0.002850 ms
+Run 55 | dne checkpoint proof extraction: 0.012861 ms
+Run 55 | dne proof verification: 0.001750 ms
+Run 55 | dne checkpoint verification: 0.040361 ms
+
+RUN 56
+------------------------------------------------------------------------------------------
+Run 56 | digest creation: 10.651866 ms
+Run 56 | tree construction: 214.268811 ms
+Run 56 | number of trees: 10
+Run 56 | checkpoint construction: 0.169100 ms
+Run 56 | open-open proof extraction: 0.063369 ms
+Run 56 | open-open checkpoint proof extraction: 0.131433 ms
+Run 56 | open-open proof verification: 0.145199 ms
+Run 56 | open-open checkpoint verification: 0.352670 ms
+Run 56 | open-close proof extraction: 0.007804 ms
+Run 56 | open-close checkpoint proof extraction: 0.023429 ms
+Run 56 | open-close proof verification: 0.016417 ms
+Run 56 | open-close checkpoint verification: 0.064503 ms
+Run 56 | dne proof extraction: 0.010829 ms
+Run 56 | dne checkpoint proof extraction: 0.013510 ms
+Run 56 | dne proof verification: 0.026571 ms
+Run 56 | dne checkpoint verification: 0.026710 ms
+
+RUN 57
+------------------------------------------------------------------------------------------
+Run 57 | digest creation: 10.821574 ms
+Run 57 | tree construction: 214.983498 ms
+Run 57 | number of trees: 10
+Run 57 | checkpoint construction: 0.157282 ms
+Run 57 | open-open proof extraction: 0.059703 ms
+Run 57 | open-open checkpoint proof extraction: 0.126028 ms
+Run 57 | open-open proof verification: 0.141347 ms
+Run 57 | open-open checkpoint verification: 0.325697 ms
+Run 57 | open-close proof extraction: 0.007202 ms
+Run 57 | open-close checkpoint proof extraction: 0.021797 ms
+Run 57 | open-close proof verification: 0.015875 ms
+Run 57 | open-close checkpoint verification: 0.062412 ms
+Run 57 | dne proof extraction: 0.012170 ms
+Run 57 | dne checkpoint proof extraction: 0.008924 ms
+Run 57 | dne proof verification: 0.026461 ms
+Run 57 | dne checkpoint verification: 0.015084 ms
+
+RUN 58
+------------------------------------------------------------------------------------------
+Run 58 | digest creation: 10.839055 ms
+Run 58 | tree construction: 210.061090 ms
+Run 58 | number of trees: 10
+Run 58 | checkpoint construction: 0.160182 ms
+Run 58 | open-open proof extraction: 0.057194 ms
+Run 58 | open-open checkpoint proof extraction: 0.117600 ms
+Run 58 | open-open proof verification: 0.145138 ms
+Run 58 | open-open checkpoint verification: 0.338331 ms
+Run 58 | open-close proof extraction: 0.008173 ms
+Run 58 | open-close checkpoint proof extraction: 0.021793 ms
+Run 58 | open-close proof verification: 0.015179 ms
+Run 58 | open-close checkpoint verification: 0.064472 ms
+Run 58 | dne proof extraction: 0.011842 ms
+Run 58 | dne checkpoint proof extraction: 0.013747 ms
+Run 58 | dne proof verification: 0.027744 ms
+Run 58 | dne checkpoint verification: 0.040906 ms
+
+RUN 59
+------------------------------------------------------------------------------------------
+Run 59 | digest creation: 10.909365 ms
+Run 59 | tree construction: 216.853905 ms
+Run 59 | number of trees: 10
+Run 59 | checkpoint construction: 0.158247 ms
+Run 59 | open-open proof extraction: 0.052218 ms
+Run 59 | open-open checkpoint proof extraction: 0.117128 ms
+Run 59 | open-open proof verification: 0.130257 ms
+Run 59 | open-open checkpoint verification: 0.329266 ms
+Run 59 | open-close proof extraction: 0.007823 ms
+Run 59 | open-close checkpoint proof extraction: 0.020946 ms
+Run 59 | open-close proof verification: 0.015217 ms
+Run 59 | open-close checkpoint verification: 0.066036 ms
+Run 59 | dne proof extraction: 0.003984 ms
+Run 59 | dne checkpoint proof extraction: 0.003666 ms
+Run 59 | dne proof verification: 0.003260 ms
+Run 59 | dne checkpoint verification: 0.000349 ms
+
+RUN 60
+------------------------------------------------------------------------------------------
+Run 60 | digest creation: 10.822060 ms
+Run 60 | tree construction: 217.229627 ms
+Run 60 | number of trees: 10
+Run 60 | checkpoint construction: 0.163040 ms
+Run 60 | open-open proof extraction: 0.058849 ms
+Run 60 | open-open checkpoint proof extraction: 0.132172 ms
+Run 60 | open-open proof verification: 0.143162 ms
+Run 60 | open-open checkpoint verification: 0.326263 ms
+Run 60 | open-close proof extraction: 0.007666 ms
+Run 60 | open-close checkpoint proof extraction: 0.022597 ms
+Run 60 | open-close proof verification: 0.015732 ms
+Run 60 | open-close checkpoint verification: 0.062661 ms
+Run 60 | dne proof extraction: 0.011642 ms
+Run 60 | dne checkpoint proof extraction: 0.014646 ms
+Run 60 | dne proof verification: 0.026659 ms
+Run 60 | dne checkpoint verification: 0.042032 ms
+
+RUN 61
+------------------------------------------------------------------------------------------
+Run 61 | digest creation: 10.922610 ms
+Run 61 | tree construction: 215.696865 ms
+Run 61 | number of trees: 10
+Run 61 | checkpoint construction: 0.164691 ms
+Run 61 | open-open proof extraction: 0.058753 ms
+Run 61 | open-open checkpoint proof extraction: 0.128258 ms
+Run 61 | open-open proof verification: 0.138503 ms
+Run 61 | open-open checkpoint verification: 0.333744 ms
+Run 61 | open-close proof extraction: 0.008053 ms
+Run 61 | open-close checkpoint proof extraction: 0.023403 ms
+Run 61 | open-close proof verification: 0.016450 ms
+Run 61 | open-close checkpoint verification: 0.064022 ms
+Run 61 | dne proof extraction: 0.011655 ms
+Run 61 | dne checkpoint proof extraction: 0.007853 ms
+Run 61 | dne proof verification: 0.028639 ms
+Run 61 | dne checkpoint verification: 0.003793 ms
+
+RUN 62
+------------------------------------------------------------------------------------------
+Run 62 | digest creation: 10.806951 ms
+Run 62 | tree construction: 218.689097 ms
+Run 62 | number of trees: 10
+Run 62 | checkpoint construction: 0.161162 ms
+Run 62 | open-open proof extraction: 0.056299 ms
+Run 62 | open-open checkpoint proof extraction: 0.125868 ms
+Run 62 | open-open proof verification: 0.133183 ms
+Run 62 | open-open checkpoint verification: 0.331323 ms
+Run 62 | open-close proof extraction: 0.008370 ms
+Run 62 | open-close checkpoint proof extraction: 0.022117 ms
+Run 62 | open-close proof verification: 0.015157 ms
+Run 62 | open-close checkpoint verification: 0.063812 ms
+Run 62 | dne proof extraction: 0.012627 ms
+Run 62 | dne checkpoint proof extraction: 0.022535 ms
+Run 62 | dne proof verification: 0.027637 ms
+Run 62 | dne checkpoint verification: 0.061837 ms
+
+RUN 63
+------------------------------------------------------------------------------------------
+Run 63 | digest creation: 10.901757 ms
+Run 63 | tree construction: 216.997173 ms
+Run 63 | number of trees: 10
+Run 63 | checkpoint construction: 0.156174 ms
+Run 63 | open-open proof extraction: 0.059914 ms
+Run 63 | open-open checkpoint proof extraction: 0.128890 ms
+Run 63 | open-open proof verification: 0.143113 ms
+Run 63 | open-open checkpoint verification: 0.325794 ms
+Run 63 | open-close proof extraction: 0.007250 ms
+Run 63 | open-close checkpoint proof extraction: 0.021758 ms
+Run 63 | open-close proof verification: 0.013905 ms
+Run 63 | open-close checkpoint verification: 0.060898 ms
+Run 63 | dne proof extraction: 0.003680 ms
+Run 63 | dne checkpoint proof extraction: 0.004428 ms
+Run 63 | dne proof verification: 0.004513 ms
+Run 63 | dne checkpoint verification: 0.000306 ms
+
+RUN 64
+------------------------------------------------------------------------------------------
+Run 64 | digest creation: 10.807174 ms
+Run 64 | tree construction: 217.034180 ms
+Run 64 | number of trees: 10
+Run 64 | checkpoint construction: 0.161590 ms
+Run 64 | open-open proof extraction: 0.059162 ms
+Run 64 | open-open checkpoint proof extraction: 0.126541 ms
+Run 64 | open-open proof verification: 0.141755 ms
+Run 64 | open-open checkpoint verification: 0.328409 ms
+Run 64 | open-close proof extraction: 0.007880 ms
+Run 64 | open-close checkpoint proof extraction: 0.022271 ms
+Run 64 | open-close proof verification: 0.016487 ms
+Run 64 | open-close checkpoint verification: 0.067359 ms
+Run 64 | dne proof extraction: 0.010664 ms
+Run 64 | dne checkpoint proof extraction: 0.002299 ms
+Run 64 | dne proof verification: 0.025246 ms
+Run 64 | dne checkpoint verification: 0.003358 ms
+
+RUN 65
+------------------------------------------------------------------------------------------
+Run 65 | digest creation: 10.838052 ms
+Run 65 | tree construction: 215.406125 ms
+Run 65 | number of trees: 10
+Run 65 | checkpoint construction: 0.165984 ms
+Run 65 | open-open proof extraction: 0.059432 ms
+Run 65 | open-open checkpoint proof extraction: 0.124890 ms
+Run 65 | open-open proof verification: 0.143356 ms
+Run 65 | open-open checkpoint verification: 0.321731 ms
+Run 65 | open-close proof extraction: 0.010328 ms
+Run 65 | open-close checkpoint proof extraction: 0.024808 ms
+Run 65 | open-close proof verification: 0.017608 ms
+Run 65 | open-close checkpoint verification: 0.062859 ms
+Run 65 | dne proof extraction: 0.003451 ms
+Run 65 | dne checkpoint proof extraction: 0.015886 ms
+Run 65 | dne proof verification: 0.001017 ms
+Run 65 | dne checkpoint verification: 0.039653 ms
+
+RUN 66
+------------------------------------------------------------------------------------------
+Run 66 | digest creation: 10.879275 ms
+Run 66 | tree construction: 217.939321 ms
+Run 66 | number of trees: 10
+Run 66 | checkpoint construction: 0.167844 ms
+Run 66 | open-open proof extraction: 0.059563 ms
+Run 66 | open-open checkpoint proof extraction: 0.131829 ms
+Run 66 | open-open proof verification: 0.140949 ms
+Run 66 | open-open checkpoint verification: 0.329766 ms
+Run 66 | open-close proof extraction: 0.007664 ms
+Run 66 | open-close checkpoint proof extraction: 0.024550 ms
+Run 66 | open-close proof verification: 0.015557 ms
+Run 66 | open-close checkpoint verification: 0.063755 ms
+Run 66 | dne proof extraction: 0.011020 ms
+Run 66 | dne checkpoint proof extraction: 0.018297 ms
+Run 66 | dne proof verification: 0.027375 ms
+Run 66 | dne checkpoint verification: 0.040127 ms
+
+RUN 67
+------------------------------------------------------------------------------------------
+Run 67 | digest creation: 10.819312 ms
+Run 67 | tree construction: 214.724926 ms
+Run 67 | number of trees: 10
+Run 67 | checkpoint construction: 0.155910 ms
+Run 67 | open-open proof extraction: 0.056856 ms
+Run 67 | open-open checkpoint proof extraction: 0.121794 ms
+Run 67 | open-open proof verification: 0.130982 ms
+Run 67 | open-open checkpoint verification: 0.325590 ms
+Run 67 | open-close proof extraction: 0.007326 ms
+Run 67 | open-close checkpoint proof extraction: 0.020812 ms
+Run 67 | open-close proof verification: 0.013774 ms
+Run 67 | open-close checkpoint verification: 0.060593 ms
+Run 67 | dne proof extraction: 0.002653 ms
+Run 67 | dne checkpoint proof extraction: 0.015798 ms
+Run 67 | dne proof verification: 0.001575 ms
+Run 67 | dne checkpoint verification: 0.039773 ms
+
+RUN 68
+------------------------------------------------------------------------------------------
+Run 68 | digest creation: 10.879498 ms
+Run 68 | tree construction: 219.365092 ms
+Run 68 | number of trees: 10
+Run 68 | checkpoint construction: 0.155976 ms
+Run 68 | open-open proof extraction: 0.057730 ms
+Run 68 | open-open checkpoint proof extraction: 0.116139 ms
+Run 68 | open-open proof verification: 0.131832 ms
+Run 68 | open-open checkpoint verification: 0.330421 ms
+Run 68 | open-close proof extraction: 0.007305 ms
+Run 68 | open-close checkpoint proof extraction: 0.020979 ms
+Run 68 | open-close proof verification: 0.015721 ms
+Run 68 | open-close checkpoint verification: 0.066262 ms
+Run 68 | dne proof extraction: 0.009976 ms
+Run 68 | dne checkpoint proof extraction: 0.009208 ms
+Run 68 | dne proof verification: 0.026274 ms
+Run 68 | dne checkpoint verification: 0.014901 ms
+
+RUN 69
+------------------------------------------------------------------------------------------
+Run 69 | digest creation: 10.896640 ms
+Run 69 | tree construction: 215.621849 ms
+Run 69 | number of trees: 10
+Run 69 | checkpoint construction: 0.160039 ms
+Run 69 | open-open proof extraction: 0.057799 ms
+Run 69 | open-open checkpoint proof extraction: 0.126017 ms
+Run 69 | open-open proof verification: 0.132848 ms
+Run 69 | open-open checkpoint verification: 0.330234 ms
+Run 69 | open-close proof extraction: 0.007665 ms
+Run 69 | open-close checkpoint proof extraction: 0.021534 ms
+Run 69 | open-close proof verification: 0.015360 ms
+Run 69 | open-close checkpoint verification: 0.062716 ms
+Run 69 | dne proof extraction: 0.002613 ms
+Run 69 | dne checkpoint proof extraction: 0.014887 ms
+Run 69 | dne proof verification: 0.001049 ms
+Run 69 | dne checkpoint verification: 0.038938 ms
+
+RUN 70
+------------------------------------------------------------------------------------------
+Run 70 | digest creation: 10.822202 ms
+Run 70 | tree construction: 217.019468 ms
+Run 70 | number of trees: 10
+Run 70 | checkpoint construction: 0.162250 ms
+Run 70 | open-open proof extraction: 0.059722 ms
+Run 70 | open-open checkpoint proof extraction: 0.123862 ms
+Run 70 | open-open proof verification: 0.132782 ms
+Run 70 | open-open checkpoint verification: 0.348736 ms
+Run 70 | open-close proof extraction: 0.007840 ms
+Run 70 | open-close checkpoint proof extraction: 0.023072 ms
+Run 70 | open-close proof verification: 0.016515 ms
+Run 70 | open-close checkpoint verification: 0.064366 ms
+Run 70 | dne proof extraction: 0.011269 ms
+Run 70 | dne checkpoint proof extraction: 0.006175 ms
+Run 70 | dne proof verification: 0.027243 ms
+Run 70 | dne checkpoint verification: 0.003270 ms
+
+RUN 71
+------------------------------------------------------------------------------------------
+Run 71 | digest creation: 10.886071 ms
+Run 71 | tree construction: 214.860705 ms
+Run 71 | number of trees: 10
+Run 71 | checkpoint construction: 0.164873 ms
+Run 71 | open-open proof extraction: 0.053549 ms
+Run 71 | open-open checkpoint proof extraction: 0.123537 ms
+Run 71 | open-open proof verification: 0.130780 ms
+Run 71 | open-open checkpoint verification: 0.330898 ms
+Run 71 | open-close proof extraction: 0.007213 ms
+Run 71 | open-close checkpoint proof extraction: 0.023128 ms
+Run 71 | open-close proof verification: 0.015637 ms
+Run 71 | open-close checkpoint verification: 0.062719 ms
+Run 71 | dne proof extraction: 0.011625 ms
+Run 71 | dne checkpoint proof extraction: 0.023862 ms
+Run 71 | dne proof verification: 0.027608 ms
+Run 71 | dne checkpoint verification: 0.062876 ms
+
+RUN 72
+------------------------------------------------------------------------------------------
+Run 72 | digest creation: 10.868100 ms
+Run 72 | tree construction: 216.873186 ms
+Run 72 | number of trees: 10
+Run 72 | checkpoint construction: 0.157444 ms
+Run 72 | open-open proof extraction: 0.060370 ms
+Run 72 | open-open checkpoint proof extraction: 0.117041 ms
+Run 72 | open-open proof verification: 0.142246 ms
+Run 72 | open-open checkpoint verification: 0.329161 ms
+Run 72 | open-close proof extraction: 0.007209 ms
+Run 72 | open-close checkpoint proof extraction: 0.021116 ms
+Run 72 | open-close proof verification: 0.016470 ms
+Run 72 | open-close checkpoint verification: 0.061376 ms
+Run 72 | dne proof extraction: 0.003479 ms
+Run 72 | dne checkpoint proof extraction: 0.013956 ms
+Run 72 | dne proof verification: 0.001241 ms
+Run 72 | dne checkpoint verification: 0.039875 ms
+
+RUN 73
+------------------------------------------------------------------------------------------
+Run 73 | digest creation: 10.829188 ms
+Run 73 | tree construction: 213.941730 ms
+Run 73 | number of trees: 10
+Run 73 | checkpoint construction: 0.160649 ms
+Run 73 | open-open proof extraction: 0.116918 ms
+Run 73 | open-open checkpoint proof extraction: 0.118121 ms
+Run 73 | open-open proof verification: 0.132526 ms
+Run 73 | open-open checkpoint verification: 0.342416 ms
+Run 73 | open-close proof extraction: 0.007936 ms
+Run 73 | open-close checkpoint proof extraction: 0.022480 ms
+Run 73 | open-close proof verification: 0.015538 ms
+Run 73 | open-close checkpoint verification: 0.064452 ms
+Run 73 | dne proof extraction: 0.000966 ms
+Run 73 | dne checkpoint proof extraction: 0.015353 ms
+Run 73 | dne proof verification: 0.001020 ms
+Run 73 | dne checkpoint verification: 0.038637 ms
+
+RUN 74
+------------------------------------------------------------------------------------------
+Run 74 | digest creation: 10.845956 ms
+Run 74 | tree construction: 216.385885 ms
+Run 74 | number of trees: 10
+Run 74 | checkpoint construction: 0.166189 ms
+Run 74 | open-open proof extraction: 0.059841 ms
+Run 74 | open-open checkpoint proof extraction: 0.123550 ms
+Run 74 | open-open proof verification: 0.145024 ms
+Run 74 | open-open checkpoint verification: 0.339009 ms
+Run 74 | open-close proof extraction: 0.007241 ms
+Run 74 | open-close checkpoint proof extraction: 0.021513 ms
+Run 74 | open-close proof verification: 0.015419 ms
+Run 74 | open-close checkpoint verification: 0.064081 ms
+Run 74 | dne proof extraction: 0.001998 ms
+Run 74 | dne checkpoint proof extraction: 0.003867 ms
+Run 74 | dne proof verification: 0.003851 ms
+Run 74 | dne checkpoint verification: 0.000284 ms
+
+RUN 75
+------------------------------------------------------------------------------------------
+Run 75 | digest creation: 10.881961 ms
+Run 75 | tree construction: 213.431522 ms
+Run 75 | number of trees: 10
+Run 75 | checkpoint construction: 0.158482 ms
+Run 75 | open-open proof extraction: 0.060875 ms
+Run 75 | open-open checkpoint proof extraction: 0.118377 ms
+Run 75 | open-open proof verification: 0.145012 ms
+Run 75 | open-open checkpoint verification: 0.323524 ms
+Run 75 | open-close proof extraction: 0.008121 ms
+Run 75 | open-close checkpoint proof extraction: 0.021773 ms
+Run 75 | open-close proof verification: 0.015756 ms
+Run 75 | open-close checkpoint verification: 0.063360 ms
+Run 75 | dne proof extraction: 0.001282 ms
+Run 75 | dne checkpoint proof extraction: 0.010948 ms
+Run 75 | dne proof verification: 0.001145 ms
+Run 75 | dne checkpoint verification: 0.038711 ms
+
+RUN 76
+------------------------------------------------------------------------------------------
+Run 76 | digest creation: 10.944861 ms
+Run 76 | tree construction: 214.767397 ms
+Run 76 | number of trees: 10
+Run 76 | checkpoint construction: 0.160319 ms
+Run 76 | open-open proof extraction: 0.057057 ms
+Run 76 | open-open checkpoint proof extraction: 0.122099 ms
+Run 76 | open-open proof verification: 0.128572 ms
+Run 76 | open-open checkpoint verification: 0.322520 ms
+Run 76 | open-close proof extraction: 0.007130 ms
+Run 76 | open-close checkpoint proof extraction: 0.023064 ms
+Run 76 | open-close proof verification: 0.014031 ms
+Run 76 | open-close checkpoint verification: 0.059827 ms
+Run 76 | dne proof extraction: 0.010220 ms
+Run 76 | dne checkpoint proof extraction: 0.017790 ms
+Run 76 | dne proof verification: 0.029953 ms
+Run 76 | dne checkpoint verification: 0.039216 ms
+
+RUN 77
+------------------------------------------------------------------------------------------
+Run 77 | digest creation: 10.856159 ms
+Run 77 | tree construction: 218.724282 ms
+Run 77 | number of trees: 10
+Run 77 | checkpoint construction: 0.157357 ms
+Run 77 | open-open proof extraction: 0.124559 ms
+Run 77 | open-open checkpoint proof extraction: 0.118815 ms
+Run 77 | open-open proof verification: 0.133477 ms
+Run 77 | open-open checkpoint verification: 0.328908 ms
+Run 77 | open-close proof extraction: 0.008327 ms
+Run 77 | open-close checkpoint proof extraction: 0.020534 ms
+Run 77 | open-close proof verification: 0.013786 ms
+Run 77 | open-close checkpoint verification: 0.061272 ms
+Run 77 | dne proof extraction: 0.002773 ms
+Run 77 | dne checkpoint proof extraction: 0.016541 ms
+Run 77 | dne proof verification: 0.001006 ms
+Run 77 | dne checkpoint verification: 0.038957 ms
+
+RUN 78
+------------------------------------------------------------------------------------------
+Run 78 | digest creation: 10.857767 ms
+Run 78 | tree construction: 214.914586 ms
+Run 78 | number of trees: 10
+Run 78 | checkpoint construction: 0.161569 ms
+Run 78 | open-open proof extraction: 0.059495 ms
+Run 78 | open-open checkpoint proof extraction: 0.122617 ms
+Run 78 | open-open proof verification: 0.132146 ms
+Run 78 | open-open checkpoint verification: 0.326740 ms
+Run 78 | open-close proof extraction: 0.006760 ms
+Run 78 | open-close checkpoint proof extraction: 0.022486 ms
+Run 78 | open-close proof verification: 0.013435 ms
+Run 78 | open-close checkpoint verification: 0.060995 ms
+Run 78 | dne proof extraction: 0.001076 ms
+Run 78 | dne checkpoint proof extraction: 0.004379 ms
+Run 78 | dne proof verification: 0.000816 ms
+Run 78 | dne checkpoint verification: 0.002318 ms
+
+RUN 79
+------------------------------------------------------------------------------------------
+Run 79 | digest creation: 10.914460 ms
+Run 79 | tree construction: 217.429992 ms
+Run 79 | number of trees: 10
+Run 79 | checkpoint construction: 0.158916 ms
+Run 79 | open-open proof extraction: 0.055143 ms
+Run 79 | open-open checkpoint proof extraction: 0.123502 ms
+Run 79 | open-open proof verification: 0.133761 ms
+Run 79 | open-open checkpoint verification: 0.329660 ms
+Run 79 | open-close proof extraction: 0.007700 ms
+Run 79 | open-close checkpoint proof extraction: 0.020801 ms
+Run 79 | open-close proof verification: 0.016256 ms
+Run 79 | open-close checkpoint verification: 0.064085 ms
+Run 79 | dne proof extraction: 0.009893 ms
+Run 79 | dne checkpoint proof extraction: 0.017486 ms
+Run 79 | dne proof verification: 0.025747 ms
+Run 79 | dne checkpoint verification: 0.049898 ms
+
+RUN 80
+------------------------------------------------------------------------------------------
+Run 80 | digest creation: 10.789068 ms
+Run 80 | tree construction: 214.130182 ms
+Run 80 | number of trees: 10
+Run 80 | checkpoint construction: 0.166928 ms
+Run 80 | open-open proof extraction: 0.058130 ms
+Run 80 | open-open checkpoint proof extraction: 0.132979 ms
+Run 80 | open-open proof verification: 0.131738 ms
+Run 80 | open-open checkpoint verification: 0.335490 ms
+Run 80 | open-close proof extraction: 0.007092 ms
+Run 80 | open-close checkpoint proof extraction: 0.022072 ms
+Run 80 | open-close proof verification: 0.013570 ms
+Run 80 | open-close checkpoint verification: 0.064013 ms
+Run 80 | dne proof extraction: 0.002864 ms
+Run 80 | dne checkpoint proof extraction: 0.006186 ms
+Run 80 | dne proof verification: 0.001701 ms
+Run 80 | dne checkpoint verification: 0.003465 ms
+
+RUN 81
+------------------------------------------------------------------------------------------
+Run 81 | digest creation: 10.939288 ms
+Run 81 | tree construction: 216.146727 ms
+Run 81 | number of trees: 10
+Run 81 | checkpoint construction: 0.158897 ms
+Run 81 | open-open proof extraction: 0.057291 ms
+Run 81 | open-open checkpoint proof extraction: 0.123392 ms
+Run 81 | open-open proof verification: 0.129835 ms
+Run 81 | open-open checkpoint verification: 0.326334 ms
+Run 81 | open-close proof extraction: 0.007102 ms
+Run 81 | open-close checkpoint proof extraction: 0.021758 ms
+Run 81 | open-close proof verification: 0.015910 ms
+Run 81 | open-close checkpoint verification: 0.061994 ms
+Run 81 | dne proof extraction: 0.010676 ms
+Run 81 | dne checkpoint proof extraction: 0.022252 ms
+Run 81 | dne proof verification: 0.025883 ms
+Run 81 | dne checkpoint verification: 0.062200 ms
+
+RUN 82
+------------------------------------------------------------------------------------------
+Run 82 | digest creation: 10.865655 ms
+Run 82 | tree construction: 215.069266 ms
+Run 82 | number of trees: 10
+Run 82 | checkpoint construction: 0.157001 ms
+Run 82 | open-open proof extraction: 0.057295 ms
+Run 82 | open-open checkpoint proof extraction: 0.117441 ms
+Run 82 | open-open proof verification: 0.141213 ms
+Run 82 | open-open checkpoint verification: 0.326229 ms
+Run 82 | open-close proof extraction: 0.007485 ms
+Run 82 | open-close checkpoint proof extraction: 0.021477 ms
+Run 82 | open-close proof verification: 0.014007 ms
+Run 82 | open-close checkpoint verification: 0.061036 ms
+Run 82 | dne proof extraction: 0.003104 ms
+Run 82 | dne checkpoint proof extraction: 0.014058 ms
+Run 82 | dne proof verification: 0.001033 ms
+Run 82 | dne checkpoint verification: 0.037669 ms
+
+RUN 83
+------------------------------------------------------------------------------------------
+Run 83 | digest creation: 10.941548 ms
+Run 83 | tree construction: 216.353726 ms
+Run 83 | number of trees: 10
+Run 83 | checkpoint construction: 0.160124 ms
+Run 83 | open-open proof extraction: 0.060142 ms
+Run 83 | open-open checkpoint proof extraction: 0.120427 ms
+Run 83 | open-open proof verification: 0.156990 ms
+Run 83 | open-open checkpoint verification: 0.326883 ms
+Run 83 | open-close proof extraction: 0.007255 ms
+Run 83 | open-close checkpoint proof extraction: 0.023288 ms
+Run 83 | open-close proof verification: 0.014286 ms
+Run 83 | open-close checkpoint verification: 0.060817 ms
+Run 83 | dne proof extraction: 0.000960 ms
+Run 83 | dne checkpoint proof extraction: 0.013124 ms
+Run 83 | dne proof verification: 0.000965 ms
+Run 83 | dne checkpoint verification: 0.038440 ms
+
+RUN 84
+------------------------------------------------------------------------------------------
+Run 84 | digest creation: 10.975831 ms
+Run 84 | tree construction: 211.836858 ms
+Run 84 | number of trees: 10
+Run 84 | checkpoint construction: 0.164445 ms
+Run 84 | open-open proof extraction: 0.125577 ms
+Run 84 | open-open checkpoint proof extraction: 0.123470 ms
+Run 84 | open-open proof verification: 0.155221 ms
+Run 84 | open-open checkpoint verification: 0.321492 ms
+Run 84 | open-close proof extraction: 0.007245 ms
+Run 84 | open-close checkpoint proof extraction: 0.022203 ms
+Run 84 | open-close proof verification: 0.015281 ms
+Run 84 | open-close checkpoint verification: 0.062494 ms
+Run 84 | dne proof extraction: 0.001619 ms
+Run 84 | dne checkpoint proof extraction: 0.004630 ms
+Run 84 | dne proof verification: 0.002391 ms
+Run 84 | dne checkpoint verification: 0.000242 ms
+
+RUN 85
+------------------------------------------------------------------------------------------
+Run 85 | digest creation: 10.897909 ms
+Run 85 | tree construction: 217.492667 ms
+Run 85 | number of trees: 10
+Run 85 | checkpoint construction: 0.161443 ms
+Run 85 | open-open proof extraction: 0.059956 ms
+Run 85 | open-open checkpoint proof extraction: 0.122068 ms
+Run 85 | open-open proof verification: 0.143213 ms
+Run 85 | open-open checkpoint verification: 0.327221 ms
+Run 85 | open-close proof extraction: 0.007005 ms
+Run 85 | open-close checkpoint proof extraction: 0.022388 ms
+Run 85 | open-close proof verification: 0.015019 ms
+Run 85 | open-close checkpoint verification: 0.062392 ms
+Run 85 | dne proof extraction: 0.011187 ms
+Run 85 | dne checkpoint proof extraction: 0.021402 ms
+Run 85 | dne proof verification: 0.025505 ms
+Run 85 | dne checkpoint verification: 0.061526 ms
+
+RUN 86
+------------------------------------------------------------------------------------------
+Run 86 | digest creation: 10.848491 ms
+Run 86 | tree construction: 215.894338 ms
+Run 86 | number of trees: 10
+Run 86 | checkpoint construction: 0.162492 ms
+Run 86 | open-open proof extraction: 0.062088 ms
+Run 86 | open-open checkpoint proof extraction: 0.120513 ms
+Run 86 | open-open proof verification: 0.133331 ms
+Run 86 | open-open checkpoint verification: 0.330451 ms
+Run 86 | open-close proof extraction: 0.007190 ms
+Run 86 | open-close checkpoint proof extraction: 0.021348 ms
+Run 86 | open-close proof verification: 0.014015 ms
+Run 86 | open-close checkpoint verification: 0.061720 ms
+Run 86 | dne proof extraction: 0.003274 ms
+Run 86 | dne checkpoint proof extraction: 0.017927 ms
+Run 86 | dne proof verification: 0.001135 ms
+Run 86 | dne checkpoint verification: 0.039800 ms
+
+RUN 87
+------------------------------------------------------------------------------------------
+Run 87 | digest creation: 11.182202 ms
+Run 87 | tree construction: 215.872683 ms
+Run 87 | number of trees: 10
+Run 87 | checkpoint construction: 0.155539 ms
+Run 87 | open-open proof extraction: 0.055781 ms
+Run 87 | open-open checkpoint proof extraction: 0.120315 ms
+Run 87 | open-open proof verification: 0.131427 ms
+Run 87 | open-open checkpoint verification: 0.326551 ms
+Run 87 | open-close proof extraction: 0.007667 ms
+Run 87 | open-close checkpoint proof extraction: 0.019984 ms
+Run 87 | open-close proof verification: 0.015637 ms
+Run 87 | open-close checkpoint verification: 0.064645 ms
+Run 87 | dne proof extraction: 0.001434 ms
+Run 87 | dne checkpoint proof extraction: 0.004573 ms
+Run 87 | dne proof verification: 0.002356 ms
+Run 87 | dne checkpoint verification: 0.000208 ms
+
+RUN 88
+------------------------------------------------------------------------------------------
+Run 88 | digest creation: 10.894310 ms
+Run 88 | tree construction: 215.047394 ms
+Run 88 | number of trees: 10
+Run 88 | checkpoint construction: 0.159545 ms
+Run 88 | open-open proof extraction: 0.058995 ms
+Run 88 | open-open checkpoint proof extraction: 0.121066 ms
+Run 88 | open-open proof verification: 0.141840 ms
+Run 88 | open-open checkpoint verification: 0.345250 ms
+Run 88 | open-close proof extraction: 0.007318 ms
+Run 88 | open-close checkpoint proof extraction: 0.021856 ms
+Run 88 | open-close proof verification: 0.014235 ms
+Run 88 | open-close checkpoint verification: 0.061944 ms
+Run 88 | dne proof extraction: 0.001210 ms
+Run 88 | dne checkpoint proof extraction: 0.001569 ms
+Run 88 | dne proof verification: 0.000839 ms
+Run 88 | dne checkpoint verification: 0.002347 ms
+
+RUN 89
+------------------------------------------------------------------------------------------
+Run 89 | digest creation: 10.872265 ms
+Run 89 | tree construction: 215.369532 ms
+Run 89 | number of trees: 10
+Run 89 | checkpoint construction: 0.161713 ms
+Run 89 | open-open proof extraction: 0.057987 ms
+Run 89 | open-open checkpoint proof extraction: 0.118408 ms
+Run 89 | open-open proof verification: 0.141621 ms
+Run 89 | open-open checkpoint verification: 0.338091 ms
+Run 89 | open-close proof extraction: 0.008035 ms
+Run 89 | open-close checkpoint proof extraction: 0.021180 ms
+Run 89 | open-close proof verification: 0.015231 ms
+Run 89 | open-close checkpoint verification: 0.061987 ms
+Run 89 | dne proof extraction: 0.012323 ms
+Run 89 | dne checkpoint proof extraction: 0.010108 ms
+Run 89 | dne proof verification: 0.026263 ms
+Run 89 | dne checkpoint verification: 0.026686 ms
+
+RUN 90
+------------------------------------------------------------------------------------------
+Run 90 | digest creation: 10.886663 ms
+Run 90 | tree construction: 217.497092 ms
+Run 90 | number of trees: 10
+Run 90 | checkpoint construction: 0.164712 ms
+Run 90 | open-open proof extraction: 0.123238 ms
+Run 90 | open-open checkpoint proof extraction: 0.126005 ms
+Run 90 | open-open proof verification: 0.129542 ms
+Run 90 | open-open checkpoint verification: 0.321760 ms
+Run 90 | open-close proof extraction: 0.007344 ms
+Run 90 | open-close checkpoint proof extraction: 0.022357 ms
+Run 90 | open-close proof verification: 0.013648 ms
+Run 90 | open-close checkpoint verification: 0.060425 ms
+Run 90 | dne proof extraction: 0.011702 ms
+Run 90 | dne checkpoint proof extraction: 0.007393 ms
+Run 90 | dne proof verification: 0.027228 ms
+Run 90 | dne checkpoint verification: 0.015229 ms
+
+RUN 91
+------------------------------------------------------------------------------------------
+Run 91 | digest creation: 10.853751 ms
+Run 91 | tree construction: 213.822502 ms
+Run 91 | number of trees: 10
+Run 91 | checkpoint construction: 0.166585 ms
+Run 91 | open-open proof extraction: 0.059267 ms
+Run 91 | open-open checkpoint proof extraction: 0.124084 ms
+Run 91 | open-open proof verification: 0.151066 ms
+Run 91 | open-open checkpoint verification: 0.326305 ms
+Run 91 | open-close proof extraction: 0.007607 ms
+Run 91 | open-close checkpoint proof extraction: 0.023148 ms
+Run 91 | open-close proof verification: 0.015266 ms
+Run 91 | open-close checkpoint verification: 0.061887 ms
+Run 91 | dne proof extraction: 0.012189 ms
+Run 91 | dne checkpoint proof extraction: 0.005329 ms
+Run 91 | dne proof verification: 0.025880 ms
+Run 91 | dne checkpoint verification: 0.003165 ms
+
+RUN 92
+------------------------------------------------------------------------------------------
+Run 92 | digest creation: 10.851159 ms
+Run 92 | tree construction: 216.742739 ms
+Run 92 | number of trees: 10
+Run 92 | checkpoint construction: 0.163913 ms
+Run 92 | open-open proof extraction: 0.058699 ms
+Run 92 | open-open checkpoint proof extraction: 0.120863 ms
+Run 92 | open-open proof verification: 0.133774 ms
+Run 92 | open-open checkpoint verification: 0.329886 ms
+Run 92 | open-close proof extraction: 0.007417 ms
+Run 92 | open-close checkpoint proof extraction: 0.022215 ms
+Run 92 | open-close proof verification: 0.015442 ms
+Run 92 | open-close checkpoint verification: 0.064689 ms
+Run 92 | dne proof extraction: 0.011318 ms
+Run 92 | dne checkpoint proof extraction: 0.004017 ms
+Run 92 | dne proof verification: 0.027383 ms
+Run 92 | dne checkpoint verification: 0.003450 ms
+
+RUN 93
+------------------------------------------------------------------------------------------
+Run 93 | digest creation: 10.921139 ms
+Run 93 | tree construction: 219.936424 ms
+Run 93 | number of trees: 10
+Run 93 | checkpoint construction: 0.187047 ms
+Run 93 | open-open proof extraction: 0.059995 ms
+Run 93 | open-open checkpoint proof extraction: 0.128280 ms
+Run 93 | open-open proof verification: 0.156237 ms
+Run 93 | open-open checkpoint verification: 0.329933 ms
+Run 93 | open-close proof extraction: 0.007416 ms
+Run 93 | open-close checkpoint proof extraction: 0.023132 ms
+Run 93 | open-close proof verification: 0.013943 ms
+Run 93 | open-close checkpoint verification: 0.065638 ms
+Run 93 | dne proof extraction: 0.011683 ms
+Run 93 | dne checkpoint proof extraction: 0.011967 ms
+Run 93 | dne proof verification: 0.027523 ms
+Run 93 | dne checkpoint verification: 0.026615 ms
+
+RUN 94
+------------------------------------------------------------------------------------------
+Run 94 | digest creation: 10.860768 ms
+Run 94 | tree construction: 216.620075 ms
+Run 94 | number of trees: 10
+Run 94 | checkpoint construction: 0.166889 ms
+Run 94 | open-open proof extraction: 0.063098 ms
+Run 94 | open-open checkpoint proof extraction: 0.127894 ms
+Run 94 | open-open proof verification: 0.150882 ms
+Run 94 | open-open checkpoint verification: 0.321944 ms
+Run 94 | open-close proof extraction: 0.007801 ms
+Run 94 | open-close checkpoint proof extraction: 0.022437 ms
+Run 94 | open-close proof verification: 0.013983 ms
+Run 94 | open-close checkpoint verification: 0.059346 ms
+Run 94 | dne proof extraction: 0.003571 ms
+Run 94 | dne checkpoint proof extraction: 0.002442 ms
+Run 94 | dne proof verification: 0.002517 ms
+Run 94 | dne checkpoint verification: 0.000256 ms
+
+RUN 95
+------------------------------------------------------------------------------------------
+Run 95 | digest creation: 10.906259 ms
+Run 95 | tree construction: 214.332831 ms
+Run 95 | number of trees: 10
+Run 95 | checkpoint construction: 0.163504 ms
+Run 95 | open-open proof extraction: 0.129436 ms
+Run 95 | open-open checkpoint proof extraction: 0.126091 ms
+Run 95 | open-open proof verification: 0.134177 ms
+Run 95 | open-open checkpoint verification: 0.334550 ms
+Run 95 | open-close proof extraction: 0.007435 ms
+Run 95 | open-close checkpoint proof extraction: 0.022191 ms
+Run 95 | open-close proof verification: 0.014240 ms
+Run 95 | open-close checkpoint verification: 0.062000 ms
+Run 95 | dne proof extraction: 0.010948 ms
+Run 95 | dne checkpoint proof extraction: 0.017006 ms
+Run 95 | dne proof verification: 0.027180 ms
+Run 95 | dne checkpoint verification: 0.050969 ms
+
+RUN 96
+------------------------------------------------------------------------------------------
+Run 96 | digest creation: 10.881473 ms
+Run 96 | tree construction: 214.259373 ms
+Run 96 | number of trees: 10
+Run 96 | checkpoint construction: 0.156869 ms
+Run 96 | open-open proof extraction: 0.058025 ms
+Run 96 | open-open checkpoint proof extraction: 0.113032 ms
+Run 96 | open-open proof verification: 0.144787 ms
+Run 96 | open-open checkpoint verification: 0.333230 ms
+Run 96 | open-close proof extraction: 0.007209 ms
+Run 96 | open-close checkpoint proof extraction: 0.021288 ms
+Run 96 | open-close proof verification: 0.014303 ms
+Run 96 | open-close checkpoint verification: 0.062483 ms
+Run 96 | dne proof extraction: 0.003417 ms
+Run 96 | dne checkpoint proof extraction: 0.013639 ms
+Run 96 | dne proof verification: 0.001254 ms
+Run 96 | dne checkpoint verification: 0.041104 ms
+
+RUN 97
+------------------------------------------------------------------------------------------
+Run 97 | digest creation: 10.871574 ms
+Run 97 | tree construction: 214.434471 ms
+Run 97 | number of trees: 10
+Run 97 | checkpoint construction: 0.161327 ms
+Run 97 | open-open proof extraction: 0.054670 ms
+Run 97 | open-open checkpoint proof extraction: 0.122762 ms
+Run 97 | open-open proof verification: 0.131567 ms
+Run 97 | open-open checkpoint verification: 0.327503 ms
+Run 97 | open-close proof extraction: 0.007127 ms
+Run 97 | open-close checkpoint proof extraction: 0.022588 ms
+Run 97 | open-close proof verification: 0.015868 ms
+Run 97 | open-close checkpoint verification: 0.061668 ms
+Run 97 | dne proof extraction: 0.011034 ms
+Run 97 | dne checkpoint proof extraction: 0.026976 ms
+Run 97 | dne proof verification: 0.032161 ms
+Run 97 | dne checkpoint verification: 0.064270 ms
+
+RUN 98
+------------------------------------------------------------------------------------------
+Run 98 | digest creation: 10.985714 ms
+Run 98 | tree construction: 215.086646 ms
+Run 98 | number of trees: 10
+Run 98 | checkpoint construction: 0.163701 ms
+Run 98 | open-open proof extraction: 0.056997 ms
+Run 98 | open-open checkpoint proof extraction: 0.117361 ms
+Run 98 | open-open proof verification: 0.131501 ms
+Run 98 | open-open checkpoint verification: 0.322535 ms
+Run 98 | open-close proof extraction: 0.007796 ms
+Run 98 | open-close checkpoint proof extraction: 0.021568 ms
+Run 98 | open-close proof verification: 0.013591 ms
+Run 98 | open-close checkpoint verification: 0.060881 ms
+Run 98 | dne proof extraction: 0.011935 ms
+Run 98 | dne checkpoint proof extraction: 0.024793 ms
+Run 98 | dne proof verification: 0.031617 ms
+Run 98 | dne checkpoint verification: 0.050295 ms
+
+RUN 99
+------------------------------------------------------------------------------------------
+Run 99 | digest creation: 10.903972 ms
+Run 99 | tree construction: 214.954911 ms
+Run 99 | number of trees: 10
+Run 99 | checkpoint construction: 0.162954 ms
+Run 99 | open-open proof extraction: 0.124424 ms
+Run 99 | open-open checkpoint proof extraction: 0.124928 ms
+Run 99 | open-open proof verification: 0.154283 ms
+Run 99 | open-open checkpoint verification: 0.322835 ms
+Run 99 | open-close proof extraction: 0.007295 ms
+Run 99 | open-close checkpoint proof extraction: 0.022302 ms
+Run 99 | open-close proof verification: 0.013783 ms
+Run 99 | open-close checkpoint verification: 0.060644 ms
+Run 99 | dne proof extraction: 0.003155 ms
+Run 99 | dne checkpoint proof extraction: 0.005309 ms
+Run 99 | dne proof verification: 0.000914 ms
+Run 99 | dne checkpoint verification: 0.002574 ms
+
+RUN 100
+------------------------------------------------------------------------------------------
+Run 100 | digest creation: 10.775140 ms
+Run 100 | tree construction: 207.386270 ms
+Run 100 | number of trees: 10
+Run 100 | checkpoint construction: 0.162424 ms
+Run 100 | open-open proof extraction: 0.058683 ms
+Run 100 | open-open checkpoint proof extraction: 0.121008 ms
+Run 100 | open-open proof verification: 0.149611 ms
+Run 100 | open-open checkpoint verification: 0.308342 ms
+Run 100 | open-close proof extraction: 0.006815 ms
+Run 100 | open-close checkpoint proof extraction: 0.022918 ms
+Run 100 | open-close proof verification: 0.013105 ms
+Run 100 | open-close checkpoint verification: 0.058066 ms
+Run 100 | dne proof extraction: 0.001302 ms
+Run 100 | dne checkpoint proof extraction: 0.001324 ms
+Run 100 | dne proof verification: 0.002296 ms
+Run 100 | dne checkpoint verification: 0.000235 ms
+
+==========================================================================================
+FINAL AVERAGE AND STANDARD DEVIATION
+==========================================================================================
+digest creation: mean=10.781341 ms std=0.228483 ms
+tree construction: mean=215.597462 ms std=3.180199 ms
+checkpoint construction: mean=0.161023 ms std=0.007280 ms
+
+open-open proof extraction: mean=0.070556 ms std=0.029225 ms
+open-open checkpoint proof extraction: mean=0.123771 ms std=0.007001 ms
+open-open proof verification: mean=0.139082 ms std=0.007785 ms
+open-open checkpoint verification: mean=0.330114 ms std=0.007399 ms
+
+open-close proof extraction: mean=0.007521 ms std=0.000506 ms
+open-close checkpoint proof extraction: mean=0.022208 ms std=0.002705 ms
+open-close proof verification: mean=0.015304 ms std=0.001291 ms
+open-close checkpoint verification: mean=0.062786 ms std=0.001576 ms
+
+dne proof extraction: mean=0.007466 ms std=0.004713 ms
+dne checkpoint proof extraction: mean=0.012325 ms std=0.006859 ms
+dne proof verification: mean=0.016301 ms std=0.013095 ms
+dne checkpoint verification: mean=0.028273 ms std=0.021338 ms
